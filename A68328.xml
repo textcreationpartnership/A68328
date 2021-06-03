@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A speech delivered in the Starr-Chamber, on Wednesday, the XIVth of Iune, MDCXXXVII. at the censure, of Iohn Bastwick, Henry Burton, &amp; William Prinn; concerning pretended innovations in the Church. By the most Reverend Father in God, VVilliam, L. Archbishop of Canterbury his Grace.</title>
+            <author>Laud, William, 1573-1645.</author>
+         </titleStmt>
+         <extent>Approx. 91KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68328</idno><idno type="EEBO-CITATION">99844009_8789</idno>
+  <idno type="VID">8789</idno>
+  <idno type="EEBO-PROQUEST">2248507439</idno>
+  <idno type="STC">STC 15307</idno>
+  <idno type="STC">ESTC S108350</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99844009e"/>
+            <note>(EEBO-TCP ; phase 2, no. A68328)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 673:7, 1353:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A speech delivered in the Starr-Chamber, on Wednesday, the XIVth of Iune, MDCXXXVII. at the censure, of Iohn Bastwick, Henry Burton, &amp; William Prinn; concerning pretended innovations in the Church. By the most Reverend Father in God, VVilliam, L. Archbishop of Canterbury his Grace.</title>
+                  <author>Laud, William, 1573-1645.</author>
+                  <author>England and Wales. Court of Star Chamber.</author>
+               </titleStmt>
+               <extent>[16], 77, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Richard Badger,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXXXVII. [1637]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "Iohn Bastwick .. Prinn;" are bracketed together on title page.</note>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>"The sheets, formes, and even pages of this ed[ition]. were set from 1 to 4 times and occur in all possible combinations"--STC.</note>
+                  <note>This edition has an ornament with crown, rose, and thistle on the title page.</note>
+                  <note>Identified as STC 15306-07 on UMI microfilm reel 673.</note>
+                  <note>Reproductions of the originals in the Folger Shakespeare Library and the Henry E. Huntington Library and Art Gallery ("Early English books, 1475-1640"), and the British Library ("Early English newspapers").</note>
+                  <note>Appears at reel 673 (Folger Shakespeare Library copy) and at reel 1353 (Henry E. Huntington Library and Art Gallery copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Bastwick, John, 1593-1654 --  Early works to 1800.</term>
+               <term type="personal_name">Burton, Henry, 1578-1648 --  Early works to 1800.</term>
+               <term type="personal_name">Prynne, William, 1600-1669 --  Early works to 1800.</term>
+               <term type="topical_term">Puritans --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Brian Matzke</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:8789:1"/>
+            <pb facs="tcp:8789:1"/>
+            <p>A SPEECH DELIVERED IN THE STARR-CHAMBER, <hi>ON WEDNESDAY, THE</hi> XIV<seg rend="sup">th</seg> of IUNE, MDCXXXVII.</p>
+            <p>AT THE CENSVRE, Of
+<list>
+                  <item>
+                     <hi>Iohn Bastwick,</hi>
+                  </item>
+                  <item>
+                     <hi>Henry Burton,</hi> &amp;</item>
+                  <item>
+                     <hi>William Prinn;</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Concerning pretended <hi>Innovations In the</hi> CHURCH.</p>
+            <p>
+               <hi>By the most Reverend Father in</hi> GOD, WILLIAM, L. Archbishop of <hi>Canterbury</hi> his <hi>Grace.</hi>
+            </p>
+            <p>
+               <hi>LONDON, Printed by</hi> RICHARD BADGER. MDCXXXVII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:8789:2"/>
+            <pb facs="tcp:8789:2"/>
+            <head>TO HIS MOST SACRED MAJESTIE, CHARLES, <hi>BY THE GRACE OF</hi> GOD, <hi>King of</hi> Great Brittaine, France <hi>and</hi> Ireland, DEFENDER <hi>of the</hi> Faith, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>Most Gracious, and Dread Soveraigne;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Had no purpose to come in <hi>Print,</hi> but <hi>Your Majesty</hi> commaunds it, and <hi>I obey.</hi> Most sorry I am for the <hi>Occasion,</hi> that induced mee to speake, and that since hath moved You to com<g ref="char:EOLhyphen"/>mand mee to Print. Nor am J ig<g ref="char:EOLhyphen"/>norant that many things, while they are
+<pb facs="tcp:8789:3"/>spoken and passe by the <hi>Eare</hi> but once, give great content; which when they come to the <hi>Eyes</hi> of men, and their often scan<g ref="char:EOLhyphen"/>ning, may lye open to some <hi>exceptions.</hi> This may fall to my <hi>lot</hi> in this particular, and very easily, considering my many <hi>di<g ref="char:EOLhyphen"/>versions,</hi> and the little time J could snatch from other <hi>Imployment</hi> to attend <hi>this.</hi> Yet choose J rather to <hi>obey Your Maje<g ref="char:EOLhyphen"/>sty,</hi> than to <hi>sacrifice</hi> to mine owne <hi>priva<g ref="char:EOLhyphen"/>cy and content.</hi>
+            </p>
+            <p>Since then this <hi>Speech</hi> uttered in pub<g ref="char:EOLhyphen"/>like, in the <hi>Star-chamber,</hi> must now come to be more publike in <hi>Print;</hi> J humbly de<g ref="char:EOLhyphen"/>sire <hi>Your Sacred Maiesty</hi> to <hi>protect mee,</hi> and <hi>it,</hi> from the undeserved <hi>Ca<g ref="char:EOLhyphen"/>lumny</hi> of those men, <hi>whose mouthes are spears and arrowes, &amp; their Tongues a sharpe sword.</hi>
+               <note place="margin">Psal. 57.4.</note> Psal. <hi>57.</hi> Though as the <hi>wiseman</hi> speakes, <hi>their foolish mouthes have already called for their owne
+<pb facs="tcp:8789:3"/>stripes, and their lippes</hi> (and pennes) <hi>been a snare for their soules,</hi> Prov. <hi>18.</hi>
+               <note place="margin">Prov. 18.6, 7</note>
+            </p>
+            <p>The <hi>Occasion</hi> which led mee to this <hi>Speech</hi> is knowne. There have of late beene divers <hi>Libells</hi> spread against the <hi>Prelates</hi> of this <hi>Church.</hi> And they have not beene more <hi>bitter,</hi> which is the <hi>shame</hi> of these <hi>raging waves,</hi>
+               <note place="margin">Jude ver. 13.</note> than they are ut<g ref="char:EOLhyphen"/>terly <hi>false,</hi> which is <hi>Our happiness.</hi> But I must humbly beseech <hi>Your Maiesty</hi> to consider, that 'tis not Wee onely, that is, the <hi>Bishops,</hi> that are strucke at, but through our sides, <hi>Your Majesty, Your Honor, Your Safety, Your Religion,</hi> is impea<g ref="char:EOLhyphen"/>ched. For what <hi>safety</hi> can You expect, if You loose the hearts of Your <hi>people?</hi> And how can You retaine their <hi>hearts,</hi> if You change their <hi>Religion</hi> into <hi>superstition?</hi> And what <hi>Honour</hi> can You hope for, ei<g ref="char:EOLhyphen"/>ther Present, or derivative to <hi>Posterity</hi> if you attend your <hi>Government</hi> no better
+<pb facs="tcp:8789:4"/>then to suffer Your <hi>Prelates</hi> to put this <hi>change</hi> upon You? And what <hi>Majesty</hi> can any <hi>Prince</hi> retaine, if hee loose his <hi>Honour</hi> and his <hi>People?</hi>
+            </p>
+            <p>
+               <hi>GOD</hi> be thanked 'Tis in all points o<g ref="char:EOLhyphen"/>therwise with You: For <hi>God</hi> hath blessed You with a <hi>Religious</hi> heart, &amp; not subject to <hi>change.</hi> And He hath filled You with <hi>Honor</hi> in the Eyes of Your <hi>People:</hi> And by their <hi>Love</hi> and dutifulnesse, He hath made You <hi>safe.</hi> So that Your <hi>Maiesty</hi> is upheld and Your <hi>Crowne</hi> flourishing in the Eyes of <hi>Christendome.</hi> And <hi>God</hi> forbid any <hi>Libellous</hi> blast at home from the <hi>Tongues</hi> or <hi>Pennes</hi> of a few, should <hi>shrivell</hi> up any growth of these.</p>
+            <p>Wee have received, and daily doe re<g ref="char:EOLhyphen"/>ceive from <hi>GOD,</hi> many and great <hi>Bles<g ref="char:EOLhyphen"/>sings</hi> by <hi>You.</hi> And I hope they are not many that are <hi>unthankfull</hi> to <hi>You,</hi> or to <hi>God</hi> for You. And that there should bee
+<pb facs="tcp:8789:4"/>none in a <hi>Populous Nation,</hi> even <hi>Ene<g ref="char:EOLhyphen"/>mies</hi> to their owne <hi>happinesse,</hi> cannot bee expected. Yet J shall desire, even these to call themselves to an account, and to re<g ref="char:EOLhyphen"/>member, that <hi>Blasphemy</hi> against <hi>God,</hi> and <hi>slandering the footsteps of his An<g ref="char:EOLhyphen"/>nointed</hi> are joined together, <hi>Psal.</hi>
+               <note place="margin">
+                  <hi>Psalm.</hi> 89. <hi>ver.</hi> 50. Wherewith thine E<g ref="char:EOLhyphen"/>nemies have blasphe<g ref="char:EOLhyphen"/>med Thee, and slan<g ref="char:EOLhyphen"/>dered the footsteppes of thine Anointed.</note>
+               <hi>89.</hi> For he that <hi>blasphemes God,</hi> will never sticke at the <hi>slander</hi> of his <hi>Prince;</hi> And he that gives him<g ref="char:EOLhyphen"/>selfe the <hi>Liberty</hi> to <hi>slander</hi> his <hi>Prince,</hi> will quickly ascend to the next <hi>highest,</hi> and <hi>Blaspheme God.</hi>
+            </p>
+            <p>But then, as J desire <hi>them</hi> to remem<g ref="char:EOLhyphen"/>ber, so I doe most humbly beseech <hi>your Maiesty</hi> to account with Your selfe too: And not to measure your <hi>peoples love</hi> by the unworthinesse of those few. For a <hi>loyall</hi> and obedient <hi>people</hi> You have, and such as will spare nor <hi>Livelyhood,</hi> nor
+<pb facs="tcp:8789:5"/>
+               <hi>Life</hi> to doe You <hi>service:</hi> And are joyed at the heart to see the <hi>Moderation</hi> of your <hi>Government</hi> and your <hi>constancy</hi> to maintaine <hi>Religion,</hi> and your <hi>Piety</hi> in <hi>Exampling</hi> it.</p>
+            <p>And as <hi>I</hi> thus <hi>beseech You</hi> for Your <hi>People</hi> in <hi>generall,</hi> so doe <hi>I particularly</hi> for the <hi>three Professions</hi> which have a little suffer'd in these <hi>three</hi> most Noto<g ref="char:EOLhyphen"/>rious <hi>Libellers Persons.</hi>
+            </p>
+            <p>And first for <hi>my</hi> owne <hi>Profession,</hi> J humbly begge of <hi>your Majesty</hi> to thinke M. <hi>Burton</hi> hath not in this many fol<g ref="char:EOLhyphen"/>lowers, and am heartily sorry hee would needs <hi>lead.</hi> The best is, <hi>your Majesty</hi> knows what made his <hi>Rancour</hi> swell; Jle say no more.</p>
+            <p>And for the <hi>Law,</hi> J truly <hi>honor</hi> it with my heart, and believe <hi>Mr. Prynn</hi> may seeke all the <hi>Innes of Court,</hi> (and
+<pb facs="tcp:8789:5"/>with a <hi>Candle</hi> too if he will) and scarce find such a <hi>Malevolent</hi> as himselfe a<g ref="char:EOLhyphen"/>gainst <hi>State</hi> and <hi>Church.</hi> And because hee hath so frequently thrust mistaken <hi>Law</hi> into these <hi>Pamphlets,</hi> to wrong the <hi>Governours</hi> of the <hi>Church,</hi> and a<g ref="char:EOLhyphen"/>buse your good and well-minded <hi>people,</hi> and makes <hi>Burton</hi> and <hi>Bastwicke</hi> utter <hi>Law</hi> which, <hi>God</hi> knowes, they under<g ref="char:EOLhyphen"/>stand not, (for J doubt his Pen is in all the <hi>Pamphlets,</hi>) J doe humbly in the <hi>Churches</hi> name desire of <hi>your Maje<g ref="char:EOLhyphen"/>stie,</hi> that it may bee <hi>resolved</hi> by all the <hi>Reverend Iudges of ENGLAND,</hi> and then <hi>published</hi> by <hi>your Majesty,</hi> That our keeping <hi>Courts,</hi> and issuing <hi>Pro<g ref="char:EOLhyphen"/>cesse</hi> in our owne <hi>Names,</hi> and the like <hi>Exceptions</hi> formerly taken, and now renewed, are not against the <hi>Lawes</hi> of the <hi>Realme,</hi> (as 'tis most certaine they
+<pb facs="tcp:8789:6"/>are not) That so the <hi>Church-Gover<g ref="char:EOLhyphen"/>nors</hi> may goe on cheerefully in their <hi>du<g ref="char:EOLhyphen"/>ty,</hi> and the peoples mindes be <hi>quieted</hi> by this assurance, that neither the <hi>Law,</hi> nor their <hi>Liberty,</hi> as <hi>Subjects,</hi> is there<g ref="char:EOLhyphen"/>by infringed.</p>
+            <p>And for <hi>Physicke,</hi> the <hi>Profession</hi> is <hi>honourable</hi> and safe; and I know the <hi>Professors</hi> of it will remember that <hi>Corpus humanum,</hi> mans body, is that, about which their Art is conversant, not <hi>Corpus Ecclesiasticum,</hi> or <hi>Politicum,</hi> the Body of the Church, State, or Com<g ref="char:EOLhyphen"/>mon-wealth. <hi>Bastwick</hi> onely hath been bold that way. But the <hi>Proverbe</hi> in the <hi>Gospell,</hi>
+               <note place="margin">S. Luke, 4.23.</note> in the fourth of S. <hi>Luke</hi> is all I'le say to him, <hi>Medice, cura teip<g ref="char:EOLhyphen"/>sum,</hi> Physician heale thy selfe. And yet let me tell <hi>your Majestie,</hi> J believe hee hath gained more by making the
+<pb facs="tcp:8789:6"/>
+               <hi>Church</hi> a <hi>Patient,</hi> than by all the <hi>Patients</hi> hee ever had beside.</p>
+            <p>
+               <hi>Sir,</hi> both <hi>my selfe,</hi> and my <hi>Brethren</hi> have been very <hi>coursely</hi> used by the <hi>Tongues</hi> and <hi>pennes</hi> of these men, yet shall J never give <hi>your Majestie</hi> any sower <hi>counsell;</hi> J shall rather magnifie <hi>your Clemencie,</hi> that proceeded with these <hi>Offenders</hi> in a <hi>Court</hi> of <hi>Mercie</hi> as well as <hi>Iustice:</hi> Since (as the <hi>Reve<g ref="char:EOLhyphen"/>rend Iudges</hi> then declared) you might have justly called the <hi>Offendors</hi> into another <hi>Court,</hi> and put them to it in a way that might have exacted their <hi>Lives,</hi> for their stirring (as much as in them lay) of <hi>mutinie</hi> and <hi>sedition.</hi>
+            </p>
+            <p>Yet this J shall be bold to say, and <hi>your Majesty</hi> may consider of it in your Wisdom; That one way of <hi>Government</hi>
+               <pb facs="tcp:8789:7"/>is not alwayes either <hi>fit</hi> or <hi>safe,</hi> when the <hi>Humors</hi> of the <hi>people</hi> are in a continu<g ref="char:EOLhyphen"/>all <hi>Change.</hi> Especially, when such men as these shall worke uyon <hi>your people,</hi> and labour to infuse into them such ma<g ref="char:EOLhyphen"/>lignant <hi>Principles,</hi> to introduce a <hi>Parity</hi> in the <hi>Church</hi> or <hi>Common-wealth. Et, si non satis suâ sponte insaniant, instigare,</hi> And to spur on such among them as are too sharpely set already: And by this meanes make and prepare all ad<g ref="char:EOLhyphen"/>vantages for the <hi>Roman party</hi> to scorne Ʋs, and pervert them.</p>
+            <p>J pray <hi>God blesse Your Majestie, Your Royall Consort,</hi> and <hi>Your hopefull Posterity,</hi> That You may Live in <hi>happinesse;</hi> Govern with <hi>Wisdom;</hi> Support Your people by <hi>Iustice;</hi> Relieve them by <hi>Mercy;</hi> Defend them by <hi>power</hi>
+               <pb facs="tcp:8789:7"/>and <hi>successe;</hi> And Guide them in the <hi>true Religion</hi> by Your Lawes and most <hi>Religious Example,</hi> all the long and lasting dayes of Your <hi>Life:</hi> Which are and shall be the daily <hi>prayers</hi> of</p>
+            <closer>
+               <signed>Your Sacred Majesties most loyall SUBIECT, <hi>AND,</hi> Most dutifull SERVANT, as most bound, <hi>W. Cant.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:8789:8"/>
+            <pb n="1" facs="tcp:8789:8"/>
+            <opener>
+               <salute>MY LORDS,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not need to speake of the infa<g ref="char:EOLhyphen"/>mous course of <hi>Li<g ref="char:EOLhyphen"/>belling</hi> in any kind:</p>
+            <p>Nor of the <hi>punish<g ref="char:EOLhyphen"/>ment</hi> of it, which in some cases was <hi>Capitall</hi> by the <hi>Imperi<g ref="char:EOLhyphen"/>all Lawes.</hi> As appeares
+<note n="*" place="margin">
+                  <hi>Cod. l.</hi> 9. <hi>T.</hi> 36.</note>:</p>
+            <p>Nor how <hi>patiently</hi> some great Men, very great Men indeed, have borne <hi>Animo civili</hi> (that's <hi>Sueton:</hi> his word
+<note n="*" place="margin">
+                  <hi>Jn Iul. c.</hi> 75.</note>) <hi>laceratam existimationem,</hi> The tearing and rending of their credit and repu<g ref="char:EOLhyphen"/>tation,
+<pb n="2" facs="tcp:8789:9"/>with a gentle, nay, a generous minde.</p>
+            <p>But of al <hi>Libels,</hi> they are most <hi>odious</hi> which pretend <hi>Religion:</hi> As if that of all things did desire to bee defended by a <hi>Mouth that is like an open Sepul<g ref="char:EOLhyphen"/>cher,</hi> or by a Pen that is made of a sicke and a loathsome Quill.</p>
+            <p>There were times when <hi>Persecuti<g ref="char:EOLhyphen"/>ons</hi> were great in the <hi>Church,</hi> even to exceed <hi>Barbarity</hi> it selfe: did any <hi>Martyr</hi> or <hi>Confessor,</hi> in those times, <hi>Libel</hi> the <hi>Governours?</hi> Surely no; not one of them to my best <hi>remembrance:</hi> yet these complaine of <hi>Persecution</hi> without all shew of cause; and in the meane time <hi>Libel</hi> and rayle without all measure. So little of kin are they to those which <hi>suffer for</hi> Christ, or the least part of <hi>Christian Religion.</hi>
+            </p>
+            <p>
+               <hi>My Lords,</hi> it is not every mans
+<pb n="3" facs="tcp:8789:9"/>
+               <hi>spirit</hi> to hold up against the <hi>Venome</hi> which <hi>Libellers</hi> spit. For S. <hi>Ambrose,</hi> who was a stout and a worthy <hi>Pre<g ref="char:EOLhyphen"/>late,</hi> tels us, not that himselfe, but that a far greater Man than he, that's K. <hi>David,</hi> had found out (so it seemes in his <hi>judgment</hi> 'twas no matter of ordi<g ref="char:EOLhyphen"/>nary ability) <hi>Grande inventū,</hi> a great and mighty invention, how to swal<g ref="char:EOLhyphen"/>low and put off those bitter <hi>Contume<g ref="char:EOLhyphen"/>lies</hi> of the <hi>tongue</hi>
+               <note n="*" place="margin">
+                  <hi>In Apol.</hi> 1. <hi>David. c.</hi> 6.</note>: and those of the <hi>pen</hi> are no whit lesse, and spread farther. And it was a great one indeed, and wel beseemed the greatnes of <hi>David.</hi> But <hi>I think</hi> it wil be far better for me to look upward, and <hi>practise</hi> it, than to look downward, and <hi>discourse</hi> upon it.</p>
+            <p>In the meane time I shal remember what an <hi>Ancient</hi> under the name of S. <hi>Hierom</hi> tels me
+<note n="*" place="margin">Ad Ocean. de Ferend. Op<g ref="char:EOLhyphen"/>prob.</note>, <hi>Indignū est &amp; praepo<g ref="char:EOLhyphen"/>sterū,</hi> 'tis unworthy in it selfe, and pre<g ref="char:EOLhyphen"/>posterous
+<pb n="4" facs="tcp:8789:10"/>in demeanour for a man to bee ashamed for <hi>doing good,</hi> because other men glory in <hi>speaking ill.</hi>
+            </p>
+            <p>And I can say it clearly and truly, as in the <hi>presence of God,</hi> I have done nothing, as a <hi>Prelate,</hi> to the uttermost of what I am conscious, but with a <hi>sin<g ref="char:EOLhyphen"/>gle heart,</hi> and with a <hi>sincere intention</hi> for the good <hi>Government</hi> and <hi>Honour</hi> of the <hi>Church;</hi> and the maintenance of the <hi>Orthodox Truth</hi> and <hi>Religion</hi> of <hi>Christ</hi> professed, established, and maintained in this <hi>Church</hi> of <hi>England.</hi>
+            </p>
+            <p>For my <hi>care of this Church,</hi> the re<g ref="char:EOLhyphen"/>ducing of it into <hi>Order,</hi> the upholding of the <hi>Externall Worship of God</hi> in it, and the setling of it to the <hi>Rules</hi> of its <hi>first Reformation,</hi> are the <hi>causes</hi> (and the sole causes, what ever are preten<g ref="char:EOLhyphen"/>ded) of all this malicious <hi>storme,</hi> which hath lowred so black <hi>upon Me,</hi> &amp; some
+<pb n="5" facs="tcp:8789:10"/>of <hi>my Brethren.</hi> And in the meane time, they which are the only, or the chief <hi>Innovators</hi> of the <hi>Christian world,</hi> having nothing to say, accuse us of <hi>Innovation; They themselves</hi> and their <hi>Complices</hi> in the meane time being the greatest <hi>Innovators</hi> that the <hi>Christian world</hi> hath almost ever known. I de<g ref="char:EOLhyphen"/>ny not but others have spread more dangerous <hi>Errors</hi> in the <hi>Church</hi> of <hi>Christ;</hi> but no men, in any age of it, have been more guilty of <hi>Innovation</hi> than they, while themselves cry out against it: <hi>Quis tulerit Gracchos?</hi>
+            </p>
+            <p>And I said wel, <hi>Quis tulerit Gracchos?</hi> For 'tis most <hi>apparent</hi> to any man that will not winke, that the <hi>Intention</hi> of <hi>these men,</hi> and their <hi>Abettors,</hi> was and is to raise a <hi>Sedition,</hi> being as great <hi>In<g ref="char:EOLhyphen"/>cendiaries</hi> in the <hi>State</hi> (where they get power) as they have ever been in the
+<pb n="6" facs="tcp:8789:11"/>
+               <hi>Church; Novatian</hi> himselfe hardly greater.</p>
+            <p>
+               <note place="margin">
+                  <hi>Burton Apo. p.</hi> 110.</note> Our maine <hi>Crime</hi> is (would they al speak out, as some of them do) that we are <hi>Bishops;</hi> were we not so, some of us might be as <hi>passable</hi> as other men. And a great trouble 'tis to them, that we maintain that our <hi>calling of Bishops</hi> is <hi>Iure Divino,</hi> by Divine Right: Of this I have said enough, and in this place, in <hi>Leightons</hi> Case, nor will I re<g ref="char:EOLhyphen"/>peate. Only this I will say, and abide by it, that the <hi>Calling of Bishops</hi> is <hi>Jure Divino,</hi> by Divine Right, though not all <hi>Adjuncts</hi> to their <hi>calling.</hi> And this I say in as direct <hi>opposition</hi> to the <hi>Church of Rome,</hi> as to the <hi>Puritan humour.</hi>
+            </p>
+            <p>And I say farther, that from the <hi>Apostles times,</hi> in all ages, in all places, the <hi>Church of Christ</hi> was governed by <hi>Bishops:</hi> And <hi>Lay-Elders</hi> never heard
+<pb n="7" facs="tcp:8789:11"/>of, till <hi>Calvins</hi> new-fangled device at <hi>Geneva.</hi>
+            </p>
+            <p>Now this is made by these men, as if it were <hi>Contra Regem,</hi> against the King, in right or in power.</p>
+            <p>But that's a meere <hi>ignorant shift;</hi> for our being <hi>Bishops, Jure divino,</hi> by Divine Right, takes nothing from the <hi>Kings Right or power over us.</hi> For though our <hi>Office</hi> be from <hi>God</hi> and <hi>Christ immediately,</hi> yet may wee not <hi>exercise</hi> that <hi>power,</hi> either of <hi>Order</hi> or <hi>Iurisdiction,</hi> but as <hi>God</hi> hath <hi>appointed</hi> us, that is, not in his <hi>Majesties,</hi> or any <hi>Christian Kings Kingdomes,</hi> but by and under the power of the <hi>King</hi> given us so to doe.</p>
+            <p>And were this a good <hi>Argument</hi> against us, as <hi>Bishops,</hi> it must needs be good against <hi>Priests</hi> and <hi>Mini<g ref="char:EOLhyphen"/>sters</hi> too; for themselves grant that
+<pb n="8" facs="tcp:8789:12"/>their <hi>Calling</hi> is <hi>Iure Divino,</hi> by Divine Right; and yet I hope they will not say, that to be <hi>Priests and Ministers</hi> is against the <hi>King,</hi> or any His <hi>Roy<g ref="char:EOLhyphen"/>all Prerogatives.</hi>
+            </p>
+            <p>Next, suppose our <hi>Callings,</hi> as <hi>Bi<g ref="char:EOLhyphen"/>shops,</hi> could not bee made good <hi>Iure Divino,</hi> by Divine Right; yet <hi>Iure Ec<g ref="char:EOLhyphen"/>clesiastico,</hi> by Ecclesiasticall Right it cannot bee denyed. And here in <hi>England</hi> the <hi>Bishops</hi> are confirmed, both in their power and meanes, by <hi>Act of Parliament.</hi> So that here we stand in as good case, as the present <hi>Lawes</hi> of the <hi>Realme</hi> can make us. And so we must stand, till the <hi>Lawes</hi> shall bee repealed by the same <hi>power</hi> that made them.</p>
+            <p>Now then, <hi>suppose</hi> we had no o<g ref="char:EOLhyphen"/>ther string to hold by (I say suppose this, but I grant it not) yet no man
+<pb n="9" facs="tcp:8789:12"/>can <hi>Libell</hi> against our <hi>Calling</hi> (as these men doe) bee it in <hi>Pulpit, print,</hi> or otherwise, but hee <hi>Libels</hi> against the <hi>King</hi> and the <hi>State,</hi> by whose <hi>Lawes</hi> wee are established. Therefore, all these <hi>Libels,</hi> so farre forth as they are against our <hi>Calling,</hi> are against the King and the <hi>Law,</hi> and can have no other purpose, than to stirre up <hi>sedi<g ref="char:EOLhyphen"/>tion</hi> among the people.</p>
+            <p>If these men had any other <hi>intention,</hi> or if they had any Christian or cha<g ref="char:EOLhyphen"/>ritable desire, to <hi>reforme</hi> any thing amisse; why did they not modestly <hi>Petition His Majesty</hi> about it, that in his <hi>Princely wisedome</hi> hee might let all things right, in a <hi>Just</hi> and <hi>Orderly</hi> manner? But this was neither their <hi>intention,</hi> nor <hi>way.</hi> For one clamours out of his <hi>Pulpit,</hi> and all of them from the <hi>Presse,</hi> and in a most viru<g ref="char:EOLhyphen"/>lent
+<pb n="10" facs="tcp:8789:13"/>and <hi>unchristian</hi> manner set them<g ref="char:EOLhyphen"/>selves to make a <hi>heat</hi> among the peo<g ref="char:EOLhyphen"/>ple; and so by <hi>Mutiny,</hi> to effect that, which by <hi>Law</hi> they cannot; And, by most false and unjust <hi>Calumnies</hi> to defame both our <hi>Callings</hi> and <hi>Per<g ref="char:EOLhyphen"/>sons.</hi> But for <hi>my part,</hi> as I pitty their rage, so I heartily pray <hi>God</hi> to <hi>forgive</hi> their malice.</p>
+            <p>No <hi>Nation</hi> hath ever appeared more jealous of <hi>Religion,</hi> then the people of <hi>England</hi> have ever beene. And their <hi>zeale to</hi> GODS <hi>glory</hi> hath beene, and at this day is a great <hi>ho<g ref="char:EOLhyphen"/>nour</hi> to them. But this <hi>Zeale</hi> of theirs, hath not beene at all times and in all persons, alike guided by <hi>knowledge.</hi> Now <hi>Zeale,</hi> as it is of <hi>excellent</hi> use, where it sees it's way; so is it very <hi>dangerous</hi> com<g ref="char:EOLhyphen"/>pany, where it goes on in the
+<pb n="11" facs="tcp:8789:13"/>
+               <hi>darke:</hi>
+               <note place="margin">a <hi>You may see it in the Example of S.</hi> Paul <hi>him<g ref="char:EOLhyphen"/>selfe, whose very zeale in the darknesse of his Ʋn<g ref="char:EOLhyphen"/>derstanding, which he then had, made him persecute Christ and his Church,</hi> Acts 22.3, 4. <hi>And he was very dangerous com<g ref="char:EOLhyphen"/>pany then; for he breathed out threatnings against the Disciples,</hi> Act. 9.1. <hi>So true is that of Saint</hi> Greg. Naz. Orat. 21. Zelus Iracundiam acuit: <hi>All zeale puts an edge to anger it selfe. And that must needs be dangerous in the darke.</hi>
+               </note> And these men, knowing the <hi>Disposition</hi> of the people, have laboured nothing more, than to mis<g ref="char:EOLhyphen"/>informe their <hi>knowledge,</hi> and misguide their <hi>Zeale,</hi> and so to fire that into a <hi>sedition,</hi> in hope that they, whom they causlesly hate, might miscarry in it.</p>
+            <p>For the <hi>maine scope</hi> of these <hi>Libels</hi> is, to kindle a <hi>Iealousie</hi> in mens mindes, that there are some great plots in hand, <hi>dangerous plots</hi> (so sayes Mr.
+<note place="margin">
+                  <hi>Pag.</hi> 5.</note>
+               <hi>Burton</hi> expresly) to change the <hi>Orthodox Religion</hi> establi<g ref="char:EOLhyphen"/>shed in <hi>England;</hi> and to bring in, <hi>J</hi> know not what, <hi>Romish superstition</hi> in the roome of it. As if the <hi>externall decent worship of</hi> GOD could not bee upheld in this <hi>Kingdome,</hi> with<g ref="char:EOLhyphen"/>out
+<pb n="12" facs="tcp:8789:14"/>bringing in of <hi>Popery.</hi>
+            </p>
+            <p>Now by this <hi>Art</hi> of theirs, give me leave to tell you that the <hi>King</hi> is most desperately abused and wounded in the minds of his <hi>people;</hi> and the <hi>Pre<g ref="char:EOLhyphen"/>lates</hi> shamefully.</p>
+            <p>
+               <hi>The King most desperately:</hi> for there is not a more cunning tricke in the world, to <hi>withdraw</hi> the peoples hearts from their <hi>Soveraign,</hi> than to perswade them that hee is changing <hi>true Religi<g ref="char:EOLhyphen"/>on,</hi> and about to bring in grosse <hi>Super<g ref="char:EOLhyphen"/>stition</hi> upon them.</p>
+            <p>
+               <hi>And the Prelates shamefully;</hi> For they are charged to <hi>seduce,</hi> and lay the plot, and be the <hi>Jnstruments.</hi>
+            </p>
+            <p>
+               <hi>For his Majesty first.</hi> This I know, and upon this <hi>occasion</hi> take it my <hi>duty</hi> to speake: There is no <hi>Prince</hi> in <hi>Chri<g ref="char:EOLhyphen"/>stendome</hi> more sincere in his <hi>Religion,</hi> nor more constant to it, than the
+<pb n="13" facs="tcp:8789:14"/>
+               <hi>King.</hi> And he gave such a Testimony of this at his being in <hi>Spain,</hi> as I much doubt, whether the best of that <hi>Faction</hi> durst have done halfe so much, as his <hi>Majesty</hi> did, in the face of that <hi>King<g ref="char:EOLhyphen"/>dome.</hi> And this you my <hi>Lord,</hi> the <hi>Earle</hi> of <hi>Holland,</hi> and other Persons of <hi>ho<g ref="char:EOLhyphen"/>nour,</hi> were eye and eare witnesses of, having the happinesse to <hi>attend</hi> Him there. And at this day, as His <hi>Majesty</hi> (by <hi>Gods</hi> great blessing both on him and us) <hi>knowes</hi> more, so is he more <hi>set<g ref="char:EOLhyphen"/>led</hi> and more confirmed, both in the <hi>Truth</hi> of the <hi>Religion</hi> here establi<g ref="char:EOLhyphen"/>shed and in <hi>Resolution</hi> to maintaine it.</p>
+            <p>
+               <hi>And for the Prelates;</hi> I assure my selfe, they cannot be so base, as to live <hi>Prelates</hi> in the Church of <hi>England,</hi> &amp; labour to bring in the <hi>Superstitions</hi> of the <hi>Church of Rome,</hi> upon themselves and it. And if any should be so <hi>foule,</hi> I
+<pb n="14" facs="tcp:8789:15"/>doe not only leave him to <hi>Gods Iudge<g ref="char:EOLhyphen"/>ment,</hi> but (if these <hi>Libellers,</hi> or any other, can <hi>discover</hi> that his base and <hi>irreligious</hi> falshood) to <hi>shame</hi> also, and severe <hi>punishment</hi> from the <hi>State:</hi> And in any <hi>just</hi> way, no mans <hi>hand</hi> shall be more, or sooner against him, than <hi>mine</hi> shall be.</p>
+            <p>
+               <hi>And for my selfe,</hi> to passe by all the <hi>scandalous reproaches,</hi> which they have most <hi>injuriously</hi> cast upon me, I shall say this only.</p>
+            <p>
+               <hi>First,</hi> I know of no plot, nor <hi>purpose</hi> of <hi>altering</hi> the <hi>Religion</hi> established.</p>
+            <p>
+               <hi>Secondly,</hi> I have ever beene farre from attempting any thing that may <hi>truly</hi> bee said to <hi>tend</hi> that way in the least degree: and to these two I here offer my <hi>Oath.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> if the <hi>King</hi> had a minde to change <hi>Religion,</hi> (which I know hee
+<pb n="15" facs="tcp:8789:15"/>hath not, and GOD forbid he should ever have) he must seeke for other <hi>In<g ref="char:EOLhyphen"/>struments.</hi> For basely as these men conceive of me, yet I thanke GOD, I know my duty well both to God and the <hi>King:</hi> And I know that all the <hi>duty</hi> I owe to the <hi>King,</hi> is under GOD. And my great happinesse it is (though not <hi>mine</hi> alone, but your <hi>Lordships</hi> and all his subjects with me) that we live un<g ref="char:EOLhyphen"/>der a <hi>Gracious</hi> and a <hi>Religious King,</hi> that will ever give us leave to serve GOD first, and <hi>Him next.</hi> But were the dayes otherwise, I thank <hi>Christ</hi> for it, I yet <hi>know</hi> not how to serve any man against the <hi>Truth</hi> of God, and I hope I shall never learne it.</p>
+            <p>But to return to the businesse: what is their <hi>Art</hi> to make the world believe a <hi>change</hi> of <hi>Religion</hi> is endevoured? VVhat? why, <hi>forsooth,</hi> they say,
+<pb n="16" facs="tcp:8789:16"/>there are great <hi>Innovations</hi> brought in by the <hi>Prelates,</hi> and such as tend to the advancing of <hi>Popery.</hi>
+            </p>
+            <p>Now that the <hi>Vanity</hi> and <hi>falshood</hi> of this may appeare, I shal humbly desire your <hi>Lordships</hi> to give me leave to re<g ref="char:EOLhyphen"/>cite briefly all the <hi>Innovations</hi> charged upon us, be they of lesse or greater <hi>mo<g ref="char:EOLhyphen"/>ment,</hi> and as briefly to answer them. And then you shall clearely see, whe<g ref="char:EOLhyphen"/>ther any <hi>cause</hi> hath bin given of these unsavoury <hi>Libels;</hi> and withall, whe<g ref="char:EOLhyphen"/>ther there bee any shew of <hi>cause</hi> to feare a <hi>change of Religion.</hi> And I will take these great pretended <hi>Innovati<g ref="char:EOLhyphen"/>ons</hi> in order, as I meet with them.</p>
+            <div n="1" type="innovation">
+               <p>
+                  <hi>First,</hi> I begin with the <hi>Newes from Ipswich.</hi>
+               </p>
+               <p>VVhere <hi>the</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 2.</note>
+                  <hi>first Innovation is, that the last yeeres Fast was enjoyned to bee
+<pb n="17" facs="tcp:8789:16"/>without Sermons in</hi> London, <hi>the Sub<g ref="char:EOLhyphen"/>urbs, and other infected places, contrary to the Orders for other Fasts in former times: Whereas Sermons are the onely meanes to humble men,</hi> &amp;c.</p>
+               <p>To this I say <hi>First,</hi> That an <hi>after-age</hi> may, without <hi>offence,</hi> learn to avoid any visible <hi>Inconvenience</hi> observed in the former. And there was visible <hi>In<g ref="char:EOLhyphen"/>convenience</hi> observed in mens former flocking to <hi>Sermons</hi> in <hi>Jnfected places.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> This was no particular <hi>Act</hi> of the <hi>Prelates;</hi> but the businesse was debated at the <hi>Councell Table,</hi> be<g ref="char:EOLhyphen"/>ing a matter of <hi>State,</hi> as well as of <hi>Reli<g ref="char:EOLhyphen"/>gion.</hi> And it was concluded for no <hi>Ser<g ref="char:EOLhyphen"/>mons in those infected places,</hi> upon this <hi>Reason;</hi> That <hi>infected Persons</hi> or <hi>Fami<g ref="char:EOLhyphen"/>lies,</hi> knowne in their owne <hi>Parishes,</hi> might not take occasion upon those
+<pb n="18" facs="tcp:8789:17"/>
+                  <hi>by-dayes</hi> to runne to other <hi>Churches,</hi> where they were not known, as many use to do, to heare some <hi>humerous</hi> men preach; For on the <hi>Sundayes,</hi> when they better kept their owne <hi>Churches:</hi> the <hi>danger</hi> is not so great altogether.</p>
+               <p>Nor <hi>Thirdly</hi> is that true, that <hi>Ser<g ref="char:EOLhyphen"/>mons</hi> are the <hi>Onely meanes</hi> to <hi>humble</hi> men. For though the <hi>preaching</hi> of <hi>Gods word,</hi> where it is performed according to his <hi>Ordinance,</hi> be a great meanes of many good <hi>effects</hi> in the <hi>soules</hi> of men; Yet no <hi>Sermons</hi> are the only <hi>meanes</hi> to <hi>humble</hi> Men. And some of their <hi>Ser<g ref="char:EOLhyphen"/>mons</hi> are fitter a great deale for other <hi>operations:</hi> Namely, to stirre up <hi>sedi<g ref="char:EOLhyphen"/>tion,</hi> as you may see by Mr. <hi>Burtons;</hi> for this his printed <hi>Libel</hi> was a <hi>Ser<g ref="char:EOLhyphen"/>mon</hi> first, and a <hi>Libel</hi> too. And 'tis the best part of a <hi>Fast</hi> to abstaine from such <hi>Sermons.</hi>
+               </p>
+               <pb n="19" facs="tcp:8789:17"/>
+            </div>
+            <div n="2" type="innovation">
+               <p n="2">2. <hi>The second Innovation is.</hi>
+                  <note n="*" place="margin">
+                     <hi>Page</hi> 3.</note>
+                  <hi>That Wednesday was appointed for the Fast-day, and that this was done with this inten<g ref="char:EOLhyphen"/>tion, by the example of this Fast without preaching, to suppresse all the Wednesday-Lectures in</hi> London.</p>
+               <p>To this I answer <hi>First,</hi> that the ap<g ref="char:EOLhyphen"/>pointing of <hi>Wednesday</hi> for the <hi>Fast-day</hi> was no <hi>Innovation.</hi> For it was the <hi>day</hi> in the <hi>last Fast</hi> before this: and <hi>I my selfe</hi> remember it so, above forty yeares since, more than once.</p>
+               <p>
+                  <hi>Secondly,</hi> if there had beene any <hi>In<g ref="char:EOLhyphen"/>novation</hi> in it, the <hi>Prelates</hi> named not the <hi>day;</hi> my <hi>Lord Keeper,</hi> I must <hi>appeale</hi> to your <hi>Lordship:</hi> The <hi>day</hi> was first named by your <hi>Lordship,</hi> as the <hi>usuall,</hi> and <hi>fittest</hi> day. And yet I dare <hi>say,</hi> and <hi>sweare too,</hi> that your <hi>Lordship</hi> had no aime to bring in <hi>Popery;</hi> nor to <hi>sup<g ref="char:EOLhyphen"/>presse</hi> all, or any the <hi>Wednesday-Lectures</hi>
+                  <pb n="20" facs="tcp:8789:18"/>in <hi>London. Besides,</hi> these men live to see the <hi>Fast</hi> ended, and no one <hi>Wed<g ref="char:EOLhyphen"/>nesday Lecture</hi> suppressed.</p>
+            </div>
+            <div n="3" type="innovation">
+               <p n="3">3. <hi>The third Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Page</hi> 3.</note>
+                  <hi>is, that the Prayer for seasonable weather was pur<g ref="char:EOLhyphen"/>ged out of this last Fast-booke, which was</hi> (say they) <hi>one cause of Ship-wracks and tempestuous weather.</hi>
+               </p>
+               <p>To this I say, <hi>First</hi> in the <hi>Generall;</hi> This <hi>Fast-Booke,</hi> and all that have formerly beene made, have beene both made, and published by the command of the <hi>King,</hi> in whose sole power it is <hi>to call a Fast.</hi> And the <hi>Arch B.</hi> and <hi>Bishops</hi> to whom the or<g ref="char:EOLhyphen"/>dering of the <hi>booke</hi> is committed, have <hi>power</hi> under the <hi>King,</hi> to <hi>put in,</hi> or <hi>leave out,</hi> whatsoever they thinke fit for the present <hi>occasion;</hi> As their <hi>Pre<g ref="char:EOLhyphen"/>decessors</hi> have ever done before them.
+<pb n="21" facs="tcp:8789:18"/>
+                  <hi>Provided</hi> that nothing be in contrary to the <hi>Doctrine</hi> or <hi>Discipline</hi> of the <hi>Church of England.</hi>
+               </p>
+               <p>And this may serve in the <hi>Gene<g ref="char:EOLhyphen"/>rall</hi> for all <hi>Alterations,</hi> in that or any other <hi>Fast-booke</hi> or bookes of Devo<g ref="char:EOLhyphen"/>tion upon any particular occasions, which may and ought to <hi>vary</hi> with severall <hi>times,</hi> and we may, and doe, and will <hi>justifie,</hi> under <hi>His Majesties power</hi> all such <hi>Alterations</hi> made therein.</p>
+               <p>
+                  <hi>Secondly,</hi> for the <hi>particular. When</hi> this <hi>last booke</hi> was set out, the weather was very <hi>seasonable.</hi> And it is not the <hi>custome</hi> of the <hi>Church,</hi> nor <hi>fit</hi> in it <hi>selfe</hi> to pray for <hi>seasonable</hi> weather when we <hi>have</hi> it, but when wee <hi>want</hi> it. VVhen the <hi>former booke</hi> was set out, the weather was <hi>extreame ill,</hi> and the Harvest in <hi>danger;</hi> Now
+<pb n="22" facs="tcp:8789:19"/>the Harvest was in, and the weather good.</p>
+               <p>
+                  <hi>Thirdly,</hi> 'tis most <hi>inconsequent</hi> to say, that the leaving that Prayer out of the <hi>booke</hi> of <hi>devotions,</hi> caused the <hi>Ship<g ref="char:EOLhyphen"/>wrackes</hi> and the <hi>Pempests,</hi> which fol<g ref="char:EOLhyphen"/>lowed. And as bold as they are with <hi>God Almighty,</hi> in saying it was the <hi>cause:</hi> For sure I am, God never told them, that was the cause. And if <hi>GOD</hi> never <hi>revealed</hi> it, they cannot come to know it; yet had the <hi>Bi<g ref="char:EOLhyphen"/>shops</hi> beene <hi>Prophets,</hi> and foreseene these <hi>Accidents,</hi> they would certainly have <hi>prayed</hi> against them.</p>
+               <p>
+                  <hi>Fourthly,</hi> Had any <hi>Minister</hi> found it <hi>necessary</hi> to use this <hi>prayer</hi> at any one time during the Fast, hee might with ease, and without danger, have sup<g ref="char:EOLhyphen"/>plied that want, by using that <hi>prayer</hi> to the same purpose which is in the Ordinary <hi>Liturgy.</hi>
+               </p>
+               <pb n="23" facs="tcp:8789:19"/>
+               <p>
+                  <hi>Fifthly,</hi> I humbly desire your <hi>Lord<g ref="char:EOLhyphen"/>ships</hi> to weigh well the <hi>Consequence</hi> of this great, and dangerous <hi>Innovation.</hi> The Prayer for faire <hi>weather</hi> was left out of the <hi>Book</hi> for the <hi>Fast;</hi> Therfore the <hi>Prelates</hi> intend to bring in <hi>Popery.</hi> An excellent <hi>Consequence,</hi> were there any shew of Reason in it.</p>
+            </div>
+            <div n="4" type="innovation">
+               <p n="4">4. <hi>The Fourth Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 3.</note>
+                  <hi>is, That there is one very usefull Collect left out, and Clause omitted in another.</hi>
+               </p>
+               <p>To this I answer <hi>First,</hi> As before; It was <hi>lawfull</hi> for us to <hi>alter</hi> what wee thought fit.</p>
+               <p>And <hi>Secondly,</hi> since that <hi>Collect</hi> made mention of <hi>Preaching,</hi> and the <hi>Act</hi> of <hi>State</hi> forbad <hi>Sermons</hi> on the <hi>Fast dayes in infected places;</hi> we thought it fit, in pursuance of that <hi>Order,</hi> to leave out that <hi>Collect.</hi>
+               </p>
+               <pb n="24" facs="tcp:8789:20"/>
+               <p>And <hi>Thirdly,</hi> for the branch in the other, which is the <hi>first Collect,</hi> Though <hi>God</hi> did deliver our <hi>forefathers</hi> out of <hi>Romish superstition,</hi> yet (<hi>God</hi> be <hi>blessed</hi> for it) we were never <hi>in.</hi> And there<g ref="char:EOLhyphen"/>fore that <hi>clause</hi> being <hi>unfittingly</hi> ex<g ref="char:EOLhyphen"/>pressed, we thought fit to passe it over.</p>
+            </div>
+            <div n="5" type="innovation">
+               <p n="5">5 <hi>The fifth Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Page</hi> 3.</note>
+                  <hi>is, That in the sixth Order for the Fast, there is a pas<g ref="char:EOLhyphen"/>sage left out concerning the abuse of Fast<g ref="char:EOLhyphen"/>ing in relation to merit.</hi>
+               </p>
+               <p>To this I <hi>answer.</hi> That he to whom the <hi>ordering</hi> of that <hi>Booke</hi> to the <hi>Presse</hi> was <hi>committed,</hi> did therefore <hi>leave</hi> it out, Because in this <hi>Age</hi> and <hi>Kingdome</hi> there is little opinion of <hi>meriting by Fasting.</hi>
+               </p>
+               <p>Nay, on the contrary, the contempt and scorne of all <hi>Fasting</hi> (save what <hi>humorous</hi> men call for of themselves) is
+<pb n="25" facs="tcp:8789:20"/>so ranke, that it would grieve any <hi>Christian</hi> man to see the necessary <hi>Or<g ref="char:EOLhyphen"/>ders of the Church concerning Fasting,</hi> both in <hi>Lent,</hi> and at other <hi>set times,</hi> so <hi>vilified</hi> as they are.</p>
+            </div>
+            <div n="6" type="innovation">
+               <p n="6">6. <hi>The Sixth Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 3.</note>
+                  <hi>is, That the Lady Elizabeth and Her Princely Children are dashed</hi> (that's their phrase) <hi>out of the new Collect, whereas they were in the Collect of the former book.</hi>
+               </p>
+               <p>For this <hi>First,</hi> The <hi>Author</hi> of the <hi>Newes</hi> knowes full well that they are left out of the <hi>Collect</hi> in the latter <hi>Editi<g ref="char:EOLhyphen"/>ons</hi> of the <hi>Common Prayer-book,</hi> aswell as in the <hi>Booke</hi> for the <hi>Fast.</hi> And this was done according to the <hi>Course</hi> of the <hi>Church,</hi> which <hi>ordinarily names</hi> none in the <hi>Prayer, but the Right line descen<g ref="char:EOLhyphen"/>ding.</hi> Yet this was not done till the <hi>King</hi> himselfe <hi>commanded</hi> it; As I have
+<pb n="26" facs="tcp:8789:21"/>to shew under <hi>his Majesties hand.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> I beseech your <hi>Lordships</hi> to consider, what must be the <hi>Consequence</hi> here: The <hi>Queen</hi> of <hi>Bohemia</hi> and her <hi>Children</hi> are left out of the <hi>Collect,</hi> therfore the <hi>Prelates</hi> intend to bring in <hi>Popery;</hi> For <hi>that</hi> (you know) they say <hi>is the end of all these Innovations.</hi> Now if this be the end and the <hi>Consequence;</hi> Truly the <hi>Libellers</hi> have done very dutifully to the <hi>King,</hi> to <hi>Poyson</hi> his <hi>people</hi> with this conceit; That the <hi>La<g ref="char:EOLhyphen"/>dy Elizabeth</hi> and her <hi>Children</hi> would keepe <hi>Popery</hi> out of this <hi>kingdome,</hi> but the <hi>King</hi> and his <hi>Children</hi> will not. And many as good <hi>offices</hi> as these have they done the <hi>King</hi> quite thorow these <hi>Libels,</hi> &amp; quite thorow his <hi>Kingdomes.</hi> For <hi>My part,</hi> I <hi>honour</hi> the <hi>Queen</hi> of <hi>Bo<g ref="char:EOLhyphen"/>hemia,</hi> and her <hi>Line,</hi> as much as any man whatsoever, and shal be as ready
+<pb n="27" facs="tcp:8789:21"/>to <hi>serve</hi> them, but I know not how to depart from my <hi>Allegeance,</hi> as I doubt these men have done.</p>
+            </div>
+            <div n="7" type="innovation">
+               <p n="7">7. <hi>The Seventh Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 3.</note>
+                  <hi>is, That these words (who art the Father of thine Elect and of their seed) are changed in the Preface of that Collect, which is for the Prince and the Kings Children.</hi> And with a most spitefull inference, That <hi>this was done by the Prelates to ex<g ref="char:EOLhyphen"/>clude the Kings Children out of the num<g ref="char:EOLhyphen"/>ber of Gods Elect.</hi> And they call <hi>it an intolerable impiety, and horrid treason.</hi>
+               </p>
+               <p>To this I <hi>answer, First,</hi> That this <hi>Alteration</hi> was made in my <hi>Predeces<g ref="char:EOLhyphen"/>sors</hi> time before I had any <hi>Authority</hi> to meddle with these things, further then I was <hi>called</hi> upon by him.</p>
+               <p>
+                  <hi>Secondly,</hi> This is not therfore to lay any aspersion upon my <hi>Predecessor,</hi> for
+<pb n="28" facs="tcp:8789:22"/>hee did in that but his duty: For his <hi>Majesty</hi> acknowledges, it was done by his <hi>speciall direction,</hi> as having then no <hi>Children</hi> to <hi>pray</hi> for.</p>
+               <p>And <hi>Thirdly,</hi> this <hi>Collect</hi> could not be very <hi>old,</hi> for it had no being in the <hi>Common Prayer Booke</hi> all Qu. <hi>Eliza<g ref="char:EOLhyphen"/>beths</hi> time, she having no <hi>Issue.</hi>
+               </p>
+               <p>The truth is, it was made at the comming in of K. IAMES; and must of necessitie be <hi>changed</hi> over and over again <hi>pro ratione Temporum,</hi> as Times and Persons varie. And this is the <hi>In<g ref="char:EOLhyphen"/>tolerable Impiety, and horrid Treason</hi> they <hi>charge</hi> upon <hi>Ʋs.</hi>
+               </p>
+               <p>In this <hi>Method</hi> the <hi>Jnnovations</hi> are set downe in the <hi>Newes from Ipswich.</hi> But then in Mr. <hi>Burtons Newes from Friday-street</hi> (called his <hi>Apologie</hi>) they are in another Order, and more are added. Therefore with your <hi>Lord<g ref="char:EOLhyphen"/>ships</hi>
+                  <pb n="29" facs="tcp:8789:22"/>leave I wil not <hi>repeat</hi> any of these, but goe on to the <hi>rest,</hi> which Mr. <hi>Bur<g ref="char:EOLhyphen"/>ton</hi> addes.</p>
+            </div>
+            <div n="8" type="innovation">
+               <p n="8">8. <hi>The eighth Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Burtont Apologie, pag.</hi> 2.</note>
+                  <hi>is, That in the Epistle the Sunday before Easter, we have put out</hi> In, <hi>and made it,</hi> At <hi>the Name of</hi> Iesus <hi>every knee shall bow; which alteration,</hi> hee saith, <hi>is directly a<g ref="char:EOLhyphen"/>gainst the Act of Parliament.</hi>
+               </p>
+               <p>Here give mee leave to tell you 'tis <hi>At the Name of Iesus,</hi> in the late lear<g ref="char:EOLhyphen"/>ned <hi>Translation</hi> made in K. <hi>Iames</hi> his time. About which many learned Men of best note in the <hi>Kingdom</hi> were imployed, besides some <hi>Prelates.</hi>
+               </p>
+               <p>But to this I answer: First, 'Tis true, the <hi>Common Prayer Book</hi> was <hi>confirmed</hi> by <hi>Act of Parliament,</hi> and so all things contained in it, at the passing of that <hi>Act.</hi> But I hope if any thing were
+<pb n="30" facs="tcp:8789:23"/>false <hi>printed</hi> then, the <hi>Parliament</hi> did not intend to passe those slips for cur<g ref="char:EOLhyphen"/>rent.</p>
+               <p>
+                  <hi>Secondly,</hi> I am not of opinion, that if one <hi>word</hi> be put in for another, so they beare both the same <hi>sense,</hi> that there is any great matter done a<g ref="char:EOLhyphen"/>gainst the <hi>Act of Parliament.</hi>
+               </p>
+               <p>
+                  <hi>Thirdly,</hi> this can make no <hi>Innova<g ref="char:EOLhyphen"/>tion.</hi> For In <hi>the Name,</hi> and At <hi>the Name of Iesus,</hi> can make no <hi>Essentiall difference</hi> here. And Mr. <hi>Pryn</hi> (whose <hi>Darling</hi> businesse it hath long been to <hi>cry</hi> down the <hi>honour</hi> due to the <hi>Son</hi> of God, at the <hi>mentioning</hi> of his <hi>saving Name Iesus</hi>) knowes the <hi>Grammar Rule</hi> well, <hi>In a place, or at a place,</hi> &amp;c.</p>
+               <p>
+                  <hi>Fourthly,</hi> if there were any error in the change of <hi>In</hi> into <hi>At;</hi> I do here <hi>so<g ref="char:EOLhyphen"/>lemnly protest</hi> to you, I know not how <hi>It</hi> came: For <hi>authority</hi> from the <hi>Pre<g ref="char:EOLhyphen"/>lates,</hi>
+                  <pb n="31" facs="tcp:8789:23"/>the <hi>Printers</hi> had none, and such a word is easily changed in such a <hi>neg<g ref="char:EOLhyphen"/>ligent presse</hi> as we have in <hi>England.</hi> Or if any <hi>altered</hi> it purposely, for ought I know, they did it to <hi>gratifie</hi> the <hi>Preci<g ref="char:EOLhyphen"/>ser</hi> sort. For therin they followed the <hi>Geneva Translation,</hi> and printed at <hi>Ge<g ref="char:EOLhyphen"/>neva.</hi> 1557
+<note n="*" place="margin">In Octavo.</note>. where the words are, <hi>At the Name of</hi> IESUS, And that is fourescore yeares agoe; and therefore no <hi>Jnnovation</hi> made by us.</p>
+               <p>
+                  <hi>Fifthly,</hi> this I find in the <hi>Queenes In<g ref="char:EOLhyphen"/>junctions</hi>
+                  <note n="*" place="margin">
+                     <hi>Injunctions</hi> 52.</note>, without either word, <hi>In</hi> or <hi>At. Whensoever the Name of Iesus shall be in any lesson, Sermon, or otherwise pronounced in the Church</hi> ('tis injoined) <hi>that due reverence be made of all persons, young and old, with lowlinesse of Coursie, and uncovering of the heads of the men<g ref="char:EOLhyphen"/>kind, as thereunto doth necessarily belong, and heretofore hath beene accustomed.</hi>
+                  <pb n="32" facs="tcp:8789:24"/>So here's <hi>necessity</hi> laid upon it, and <hi>custome</hi> for it, and both expressed by <hi>Authority</hi> in the very <hi>beginning</hi> of the <hi>Reformation;</hi> and is therefore no <hi>Innovation now.</hi>
+               </p>
+            </div>
+            <div n="9" type="innovation">
+               <p n="9">9 <hi>The Ninth Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 3.</note>
+                  <hi>is, That two places are changed in the Praiers set forth for the fifth of November: And ordered to bee read</hi> (they say) <hi>by Act of Parliament. The first place is changed thus, From, Root out that Babylonish and Antichristian Sect, which say of Ierusa<g ref="char:EOLhyphen"/>lem,</hi> &amp;c. <hi>Into this forme of words. Root out that Babylonish and Antichristian Sect (of them) which say,</hi> &amp;c. The se<g ref="char:EOLhyphen"/>cond place went thus in the old: <hi>Cut off those workers of iniquity, whose Reli<g ref="char:EOLhyphen"/>gion is Rebellion. But in the booke prin<g ref="char:EOLhyphen"/>ted</hi> 1635. <hi>'tis thus altered: Cut off those workers of Iniquity, who turne Religion into Rebellion,</hi> &amp;c.</p>
+               <pb n="33" facs="tcp:8789:24"/>
+               <p>To this I say <hi>First,</hi> 'Tis a <hi>notorious untruth,</hi> that this <hi>Booke</hi> was <hi>ordered</hi> to be <hi>read</hi> by <hi>Act of Parliament.</hi> The <hi>Act of Parliament</hi> indeed is <hi>printed</hi> before it; and therein is a <hi>Command</hi> for <hi>Pray<g ref="char:EOLhyphen"/>ers</hi> and <hi>Thankesgivings</hi> every <hi>fifth of November:</hi> but not one word or sylla<g ref="char:EOLhyphen"/>ble for the <hi>Forme of Prayer.</hi> That's left to the <hi>Church,</hi> therfore here's no <hi>Inno<g ref="char:EOLhyphen"/>vation</hi> against that <hi>Act of Parliament.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> The <hi>Alteration</hi> first men<g ref="char:EOLhyphen"/>tioned, that is, <hi>That Sect,</hi> or <hi>That Sect of them:</hi> is of so small <hi>consequence,</hi> as 'tis not worth the speaking of. Be<g ref="char:EOLhyphen"/>sides if there be any thing of <hi>moment</hi> in it, 'tis answered in the next.</p>
+               <p>
+                  <hi>Thirdly,</hi> both for <hi>that</hi> and the <hi>second place,</hi> which seemes of more <hi>moment;</hi> and so for the rest not onely in that <hi>book,</hi> but that other also for his <hi>Maje<g ref="char:EOLhyphen"/>sties Coronation; His Majestie</hi> expresly
+<pb n="34" facs="tcp:8789:25"/>commanded <hi>Me</hi> to make the <hi>Altera<g ref="char:EOLhyphen"/>tions,</hi> and see them <hi>printed.</hi> And here are both the <hi>books</hi> with his <hi>Majesties warrant</hi> to each of them. So that herein I conceive I did not <hi>offend,</hi> unlesse it were that I gave not these men <hi>notice</hi> of it, or asked them leave to obey the King.</p>
+               <p>Against this there can be but two <hi>objections,</hi> should <hi>malice</hi> it selfe goe to work. <hi>The one is, that I moved his Ma<g ref="char:EOLhyphen"/>jesty to command the Change. And the other, that now, when I saw my selfe chal<g ref="char:EOLhyphen"/>leng'd for it, I procured His Majesties hand for my security.</hi>
+               </p>
+               <p>To these <hi>I answer</hi> cleerly; <hi>First,</hi> that I did not move the <hi>King, directly,</hi> or <hi>indirectly;</hi> to make this <hi>change.</hi>
+               </p>
+               <p>And <hi>Secondly,</hi> that I had His <hi>Ma<g ref="char:EOLhyphen"/>jesties</hi> hand to the <hi>Booke,</hi> not <hi>now,</hi> but <hi>then,</hi> and before ever I caused them
+<pb n="35" facs="tcp:8789:25"/>to be <hi>printed,</hi> as now they are. And that both these are <hi>true,</hi> I here againe <hi>freely</hi> offer my selfe to my <hi>Oath.</hi>
+               </p>
+               <p>And yet <hi>Fourthly,</hi> that you may see <hi>His Gracious Majesty</hi> used not his <hi>power</hi> only in <hi>commanding</hi> this <hi>change;</hi> but his <hi>wisdome</hi> also; I shal adventure to give you my <hi>Reasons,</hi> such as they are, why this <hi>Alteration</hi> was most <hi>fit,</hi> if not <hi>necessary.</hi>
+               </p>
+               <p>My <hi>first Reason is,</hi> In the <hi>Lita<g ref="char:EOLhyphen"/>ny</hi> in <hi>Hen.</hi> 8. his time
+<note place="margin">a <hi>It was put into the Litany of</hi> H. 8. <hi>his time, as appeares in his Primer, with his Injunction be<g ref="char:EOLhyphen"/>fore it.</hi>
+                  </note>: and also under <hi>Ed.</hi> 6.
+<note place="margin">b <hi>And 'tis in both the Service Bookes of</hi> Ed. 6. <hi>both that which was printed,</hi> 1549. <hi>And in that which was after, An,</hi> 1552.</note> there was this <hi>Clause: From the tyrany of the Bi<g ref="char:EOLhyphen"/>shop of Rome, and all his detestable enormities, frō all fals doctrine,</hi> &amp;c. <hi>Good Lord deliver us.</hi> But in the <hi>Litary</hi> in Q <hi>Elizabeths</hi> time this <hi>Clause</hi> about the <hi>Pope</hi> was left out, and it seemes of <hi>purpose,</hi> for avoiding of <hi>scandall:</hi> And yet the <hi>Prelates</hi> for
+<pb n="36" facs="tcp:8789:26"/>that not accounted <hi>Jnnovators,</hi> or <hi>Introducers</hi> of <hi>Popery.</hi> Now 'tis a far greater <hi>scandall</hi> to call their <hi>Religion Rebellion,</hi> then 'tis to call their chiefe <hi>Bishop Tyrant.</hi>
+               </p>
+               <p>And this <hi>Reason</hi> is drawne from <hi>scandall,</hi> which must ever be avoided as much as it may.</p>
+               <p>My <hi>second Reason</hi> is, that the <hi>Lear<g ref="char:EOLhyphen"/>ned</hi> make but <hi>three Religions</hi> to have been of old in the world, <hi>Pa<g ref="char:EOLhyphen"/>ganisme, Judaisme,</hi> and <hi>Christia<g ref="char:EOLhyphen"/>nity.</hi> And now they have added a <hi>fourth,</hi> which is <hi>Turcisme,</hi> and is an absurd <hi>mixture</hi> of the other three. Now if this <hi>ground</hi> of theirs bee true (as 'tis <hi>generally</hi> received) perhaps it will bee of <hi>dangerous</hi> con<g ref="char:EOLhyphen"/>sequence sadly to <hi>avow,</hi> that the <hi>Popish Religion</hi> is <hi>Rebellion.</hi> That some <hi>opinions</hi> of theirs teach <hi>rebelli<g ref="char:EOLhyphen"/>on,</hi>
+                  <pb n="37" facs="tcp:8789:26"/>that's <hi>apparently</hi> true, the <hi>other</hi> would be <hi>thought on,</hi> to say no more. And this <hi>Reason</hi> well weighed, is ta<g ref="char:EOLhyphen"/>ken from the very <hi>foundations</hi> of <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> it selfe.</p>
+               <p>My <hi>Third Reason</hi> is, Because if you make their <hi>Religion</hi> to bee <hi>Rebellion,</hi> then you make their <hi>Re<g ref="char:EOLhyphen"/>ligion,</hi> and <hi>Rebellion</hi> to bee all <hi>one.</hi> And that is against the <hi>ground</hi> both of <hi>State,</hi> and the <hi>Law.</hi> For when diverse <hi>Romish Priests</hi> and <hi>Iesuites</hi> have deservedly suffered <hi>death</hi> for <hi>Treason,</hi> is it not the constant and just profession of the <hi>State,</hi> that they never put any man to <hi>death</hi> for <hi>Religion,</hi> but for <hi>Rebellion</hi> and <hi>Treason</hi> onely? Doth not the <hi>State</hi> truly <hi>affirme,</hi> that there was never any <hi>Law</hi> made against the <hi>life</hi> of a <hi>Papist, quatenus</hi> a <hi>Papist</hi> only? And
+<pb n="38" facs="tcp:8789:27"/>is not all this starke <hi>false,</hi> if their very <hi>Religion</hi> bee <hi>Rebellion?</hi> For if their <hi>Religion</hi> be <hi>Rebellion,</hi> it is not only <hi>false,</hi> but <hi>impossible,</hi> that the <hi>same man</hi> in the <hi>same Act</hi> should suffer for his <hi>Rebellion,</hi> and not for his <hi>Religion.</hi>
+               </p>
+               <p>And this <hi>King Iames</hi> of ever <hi>bles<g ref="char:EOLhyphen"/>sed memory</hi> understood passing well, when (in his <hi>premonition</hi> to all <hi>Christi<g ref="char:EOLhyphen"/>an Monarches</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 336.</note>) he saith, <hi>I doe con<g ref="char:EOLhyphen"/>stantly maintain that no Papist either in my time, or in the time of the late Queen, ever dyed for his conscience.</hi> Therefore he did not think, their very <hi>Religion</hi> was <hi>Rebellion.</hi> Though this <hi>Clause</hi> passed through <hi>Jnadvertencie</hi> in his time. And this <hi>Reason</hi> is grounded both upon the <hi>practise,</hi> and the <hi>Iu<g ref="char:EOLhyphen"/>stice</hi> of the <hi>Law.</hi>
+               </p>
+               <p>VVhich of these <hi>Reasons,</hi> or whe<g ref="char:EOLhyphen"/>ther
+<pb n="39" facs="tcp:8789:27"/>any other better, were in His <hi>Majesties</hi> thoughts, when he com<g ref="char:EOLhyphen"/>manded the <hi>Alteration</hi> of this <hi>clause,</hi> I know not. But I tooke it my <hi>duty</hi> to lay it before you, that the <hi>King</hi> had not only <hi>power,</hi> but <hi>Reason</hi> to com<g ref="char:EOLhyphen"/>mand it.</p>
+            </div>
+            <div n="10" type="innovation">
+               <p n="10">10. The <hi>Tenth Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 3.</note>
+                  <hi>is, That the Prayer for the Navy is left out of the late booke for the Fast.</hi>
+               </p>
+               <p>To this I <hi>say,</hi> there is great <hi>Reason</hi> it should. For the <hi>King</hi> had no de<g ref="char:EOLhyphen"/>clared <hi>Enemy</hi> then, nor (GOD be<g ref="char:EOLhyphen"/>thanked) hath he <hi>now.</hi> Nor had he <hi>then</hi> any <hi>Navy</hi> at Sea. For almost all the <hi>Ships</hi> were come <hi>in,</hi> before the <hi>Fast-booke</hi> was set <hi>out.</hi>
+               </p>
+               <p>But howsoever, an excellent <hi>conse<g ref="char:EOLhyphen"/>quence</hi> it is, if you marke it; The <hi>pray<g ref="char:EOLhyphen"/>er</hi> for the <hi>Navy</hi> was left <hi>out</hi> of the
+<pb n="40" facs="tcp:8789:28"/>
+                  <hi>booke</hi> for the <hi>Fast,</hi> therefore by that, and such like <hi>Innovations</hi> the <hi>Pre<g ref="char:EOLhyphen"/>lates</hi> intend to bring <hi>in Popery.</hi> In<g ref="char:EOLhyphen"/>deed, if that were a piece of the <hi>Pre<g ref="char:EOLhyphen"/>lates</hi> plots to bring in <hi>Popery</hi> from beyond Sea, then they were migh<g ref="char:EOLhyphen"/>tily overseene that they left out the <hi>prayer</hi> for the <hi>Navy.</hi> But else what <hi>reason</hi> or <hi>consequence</hi> is in it, I know not, unlesse perhaps Mr. <hi>Burton</hi> in<g ref="char:EOLhyphen"/>tended to befriend Dr. <hi>Bastwicke,</hi> and in the <hi>Navy</hi> bring hither the <hi>Whore of Babylon</hi> to be ready for his <hi>Christening,</hi> as hee most prophanely scoffes.</p>
+               <p>
+                  <hi>Well:</hi> I pray GOD the time come not upon this <hi>Kingdome,</hi> in which it will bee found, that no one thing hath <hi>advanced</hi> or <hi>Vsherd</hi> in <hi>Po<g ref="char:EOLhyphen"/>pery</hi> so fast, as the <hi>grosse Absurdities</hi> even in the <hi>Worship of God,</hi> which
+<pb n="41" facs="tcp:8789:28"/>these <hi>Men,</hi> and their <hi>like, maintaine</hi> both in <hi>Opinion</hi> and <hi>practise.</hi>
+               </p>
+            </div>
+            <div n="11" type="innovation">
+               <p n="11">11. <hi>The eleventh Innovation,</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 105.</note>
+                  <hi>is the reading of the second Service at the Communion-Table, or the Altar.</hi>
+               </p>
+               <p>To this <hi>first</hi> I can truly say, that since my owne <hi>memory,</hi> this was in <hi>use</hi> in very many places, as being most <hi>proper</hi> (for those <hi>prayers</hi> are then read which both precede and follow the <hi>Communion,</hi>) and by lit<g ref="char:EOLhyphen"/>tle and little this <hi>Auncient custome</hi> was <hi>altered,</hi> and in those places first, where the <hi>Emissaries</hi> of this <hi>faction</hi> came to <hi>preach.</hi> And now if any in <hi>Authority</hi> offer to <hi>reduce</hi> it; this <hi>auncient course</hi> of the <hi>Church</hi> is by and by called an <hi>Innovation.</hi>
+               </p>
+               <p>
+                  <hi>Secondly,</hi> with this the <hi>Rubrickes</hi> of the <hi>Common-prayer booke</hi> agree:
+<pb n="42" facs="tcp:8789:29"/>for the <hi>first Rubricke</hi> after the <hi>Com<g ref="char:EOLhyphen"/>munion</hi> tels us that upon <hi>Holy-dayes,</hi> though there be no <hi>Communion,</hi> yet <hi>all</hi> els that's appointed at the Com<g ref="char:EOLhyphen"/>munion shall be read. <hi>Shall be read?</hi> That's true, but where? VVhy, the last <hi>Rubricke</hi> before the <hi>Commu<g ref="char:EOLhyphen"/>nion</hi> tels us, that the Priest, standing at the <hi>North side</hi> of the <hi>Holy Table, shall say the Lords Prayer, with that which followes.</hi> So that not onely the <hi>Communion,</hi> but the <hi>prayers</hi> which <hi>ac<g ref="char:EOLhyphen"/>company</hi> the <hi>Communion</hi> (which are commonly call'd the <hi>Second service</hi>) are to bee read at the <hi>Communion-Table.</hi> Therefore if this bee an <hi>In<g ref="char:EOLhyphen"/>novation,</hi> 'tis made by the <hi>Rubricke,</hi> not by the <hi>Prelates;</hi> And Master <hi>Burtons</hi> scoffe that this <hi>second service must be served in for dainties</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 105. <hi>[Then the Second Ser<g ref="char:EOLhyphen"/>vice, as dain<g ref="char:EOLhyphen"/>ties, must be said there.]</hi>
+                  </note> savours too much of <hi>Belly</hi> and <hi>prophanation.</hi>
+               </p>
+               <pb n="43" facs="tcp:8789:29"/>
+            </div>
+            <div n="12" type="innovation">
+               <p n="12">12 One thing stickes much in their stomackes, and they call it an <hi>Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 105.</note> too. And that is, <hi>bow<g ref="char:EOLhyphen"/>ing, or doing Reverence at our first com<g ref="char:EOLhyphen"/>ming into the Church, or at our nearer approches to the Holy Table, or the Al<g ref="char:EOLhyphen"/>tar,</hi> (call it whether you will) In which they will needs have it, <hi>that we worship the Holy Table, or God knowes what.</hi>
+               </p>
+               <p>To this I <hi>answer. First,</hi> That <hi>God</hi> forbid wee should <hi>worship</hi> any thing but GOD Himselfe.</p>
+               <p>
+                  <hi>Secondly,</hi> that if to <hi>Worship</hi> GOD when wee <hi>enter</hi> into <hi>his house,</hi> or <hi>ap<g ref="char:EOLhyphen"/>proach</hi> his <hi>Altar,</hi> be an <hi>Innovation,</hi> 'tis a very <hi>Old one.</hi>
+               </p>
+               <p>For <hi>Moses</hi> did <hi>reverence</hi> at the very <hi>Doore</hi> of the <hi>Tabernacle, Num.</hi> 20. <hi>Hezekiah,</hi>
+                  <note place="margin">
+                     <hi>Num.</hi> 20.6.</note> and all that
+<pb n="44" facs="tcp:8789:30"/>were present with him, when they had made an <hi>end of offering, bowed</hi> and <hi>worshipped,</hi> (
+<note place="margin">d 2 <hi>Chron.</hi> 29.29.</note> 2 <hi>Chron.</hi> 29.) <hi>David</hi> cals the people to it with a <hi>Venite, O come let us Worship, and fall downe, and kneele before the Lord our Maker,</hi> (
+<note place="margin">e <hi>Psal.</hi> 95.6.</note>
+                  <hi>Psa.</hi> 95.) And in <hi>all</hi> these places (I pray mark it) 'tis <hi>bodily worship.</hi>
+               </p>
+               <p>Nor can they say, that this was <hi>Iudaicall</hi> worship, and now not to be <hi>imitated.</hi> For long before <hi>Iu<g ref="char:EOLhyphen"/>daisme</hi> began, <hi>Bethel,</hi> the <hi>House of</hi> GOD, was a place of <hi>Reverence,</hi> (
+<note place="margin">f <hi>Gen.</hi> 28.17 <hi>&amp;c.</hi>
+                  </note>
+                  <hi>Gen.</hi> 28.) Therfore certainly, Of, and To GOD.</p>
+               <p>And after <hi>Iudaicall worship</hi> ended, <hi>Venite, Adoremus,</hi> as far upwards as there is any track of a <hi>Liturgy,</hi> was the <hi>Introitus</hi> of the <hi>Priest</hi> all the <hi>La<g ref="char:EOLhyphen"/>tine Church</hi> over.</p>
+               <p>And in the daily <hi>prayers</hi> of the
+<pb n="45" facs="tcp:8789:30"/>
+                  <hi>Church</hi> of <hi>England;</hi> this was <hi>retained</hi> at the <hi>Reformation;</hi> and that <hi>Psalme,</hi> in which is <hi>Venite, Adoremus;</hi> is com<g ref="char:EOLhyphen"/>manded to begin the <hi>Morning Ser<g ref="char:EOLhyphen"/>vice</hi> every Day. And for ought I know, the <hi>Priest</hi> may as well leave out the <hi>Venite,</hi> as the <hi>Adoremus;</hi> the <hi>calling</hi> the people to their duty, as the <hi>duty</hi> it selfe, when they are come.</p>
+               <p>Therefore even according to the <hi>Service-booke</hi> of the <hi>Church</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the <hi>Priest</hi> and the <hi>People</hi> both are called upon, for <hi>externall</hi> and <hi>bo<g ref="char:EOLhyphen"/>dily Reverence</hi> and <hi>Worship</hi> of GOD in his <hi>Church.</hi> Therefore they which doe it, do not <hi>Innovate.</hi> And yet the <hi>Government</hi> is so <hi>moderate (God</hi> grant it be not too <hi>loose</hi> therewhile) that no man is <hi>constrained,</hi> no man <hi>questio<g ref="char:EOLhyphen"/>ned,</hi> only <hi>religiously</hi> called upon, <hi>Ve<g ref="char:EOLhyphen"/>nite, Adoremus, Come, let us worship.</hi>
+               </p>
+               <pb n="46" facs="tcp:8789:31"/>
+               <p>
+                  <hi>For my owne part</hi> I take my selfe <hi>bound</hi> to <hi>worship</hi> with <hi>body,</hi> as well as in <hi>Soule,</hi> when ever I come where GOD is <hi>worshipped.</hi> And were this <hi>Kingdome</hi> such as would allow no <hi>Holy Table,</hi> standing in its proper place (and such <hi>places</hi> some there are) yet I would <hi>worship God</hi> when I came into <hi>His house.</hi> And were the <hi>times</hi> such, as should beat downe Churches, and all the <hi>curious carved worke thereof, with Axes, and Ham<g ref="char:EOLhyphen"/>mers,</hi>
+                  <note place="margin">
+                     <hi>Psal.</hi> 74.6.</note> as in <hi>Psa.</hi> 74. (and such <hi>times</hi> have beene) yet would <hi>I worship</hi> in what place soever I came to <hi>pray,</hi> though there were not so much as a stone laid for <hi>Bethel.</hi> But this is the <hi>misery;</hi> 'tis <hi>superstition</hi> now adaies for any man to come with more <hi>Reve<g ref="char:EOLhyphen"/>rence</hi> into a <hi>Church,</hi> then a <hi>Tinker</hi> and his <hi>Bitch</hi> come into an <hi>Ale-house;</hi> the
+<pb n="47" facs="tcp:8789:31"/>
+                  <hi>comparison</hi> is too <hi>homely,</hi> but my <hi>Iust indignation</hi> at the <hi>profanenesse</hi> of the times, makes me speake it.</p>
+               <p>And you my <hi>Honourable Lords</hi> of the <hi>Garter,</hi> in your great <hi>Solemni<g ref="char:EOLhyphen"/>ties,</hi> you doe your <hi>Reverence,</hi> and to <hi>Almighty God,</hi> I doubt not, but yet it is <hi>Versus Altare,</hi> towards his <hi>Altar,</hi> as the greatest <hi>place</hi> of Gods <hi>Refi<g ref="char:EOLhyphen"/>dence</hi> upon earth. (I <hi>say</hi> the <hi>greatest,</hi> yea greater then the <hi>Pulpit.</hi> For <hi>there</hi> 'tis <hi>Hoc est corpus meum,</hi> This is my Body. But in the <hi>Pulpit,</hi> tis at most, but; <hi>Hoc est Ʋerbum meum,</hi> This is my VVord. And a <hi>greater Reverence</hi> (no doubt) is <hi>due</hi> to the <hi>Body,</hi> then to the <hi>Word</hi> of our <hi>Lord.</hi> And so, in <hi>Relation, answerably</hi> to the <hi>Throne,</hi> where his <hi>Body</hi> is usually <hi>pre<g ref="char:EOLhyphen"/>sent,</hi> then to the <hi>Seate,</hi> whence His <hi>Word</hi> useth to be <hi>Proclaimed.</hi> And
+<pb n="48" facs="tcp:8789:32"/>
+                  <hi>God</hi> hold it <hi>there,</hi> at <hi>His Word;</hi> for, as too many men use the matter, * Tis <hi>Hoc est verbum Diaboli.</hi> This is the word of the Divell, in too <hi>many</hi> pla<g ref="char:EOLhyphen"/>ces. VVitnesse Sedition, and the like to it.) And this <hi>Reverence</hi> yee doe when ye enter the <hi>Chappel,</hi> and when you <hi>approach</hi> nearer to <hi>offer.</hi> And this is no <hi>Innovation,</hi> for you are <hi>bound</hi> to it by your <hi>Order,</hi> and that's not <hi>New.</hi>
+               </p>
+               <p>And <hi>Jdolatry</hi> it is not, to <hi>worship</hi> GOD towards His <hi>Holy Table;</hi> For if it had beene <hi>Idolatry,</hi> I pre<g ref="char:EOLhyphen"/>sume <hi>Queene Elizabeth, and King James</hi> would not have <hi>practised</hi> it, no not in those <hi>Solemnities.</hi> And being not <hi>Jdolatry,</hi> but true <hi>Divine Worship, You</hi> will, I hope, give a poore <hi>Priest</hi> leave to <hi>Worship God,</hi> as <hi>Your selves</hi> doe: For if it be <hi>Gods Worship,</hi>
+                  <pb n="49" facs="tcp:8789:32"/>I <hi>ought</hi> to doe it as well as <hi>You:</hi> And if it be <hi>Idolatry, You ought not</hi> to doe it more than I.</p>
+               <p>I <hi>say againe,</hi> I hope a poore <hi>Priest</hi> may <hi>Worship God</hi> with as lowly <hi>Re<g ref="char:EOLhyphen"/>verence</hi> as you doe, since you are <hi>bound</hi> by your <hi>Order,</hi> and by your <hi>Oath,</hi> according to a <hi>Constitution</hi> of <hi>Hen. the fifth,</hi> (as appeares
+<note place="margin">a <hi>In Libro Nigro. Win lesori<g ref="char:EOLhyphen"/>ensi. p.</hi> 6<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>) to give due <hi>honour and Reverence, Domino Deo, &amp; Altari ejus, in modum viro<g ref="char:EOLhyphen"/>rum Ecclesiasticorum;</hi> That is, to the <hi>Lord your God,</hi> and to His <hi>Altar</hi> (for there is a <hi>Reverence</hi> due to that too, though such as comes farre short of <hi>Divine Worship</hi>) and this in the <hi>Manner,</hi> as <hi>Ecclesiasticall Persons</hi> both <hi>Worship</hi> and doe <hi>Reverence.</hi>
+               </p>
+               <p>The <hi>Story</hi> which led in this <hi>De<g ref="char:EOLhyphen"/>cree</hi> is this: <hi>King Henry the fifth,</hi> that <hi>Noble and victorious Prince,</hi> return<g ref="char:EOLhyphen"/>ing
+<pb n="50" facs="tcp:8789:33"/>
+                  <hi>gloriously</hi> out of <hi>France,</hi> sat at this <hi>Solemnity;</hi> and finding the <hi>Knights of the Order</hi> scarce bow to <hi>God,</hi> or but <hi>slightly,</hi> and then <hi>bow</hi> towards <hi>Him</hi> and <hi>His Seat, startled</hi> at it (being a <hi>Prince then</hi> grown as <hi>religious,</hi> as hee was before <hi>victorious,</hi>) and after ask<g ref="char:EOLhyphen"/>ing the <hi>Reason;</hi> for til <hi>then</hi> the <hi>Knights</hi> of the <hi>Order</hi> never <hi>bowed</hi> toward the <hi>King</hi> or his <hi>Seat;</hi> the <hi>Duke of Bed<g ref="char:EOLhyphen"/>ford</hi> answered, it was <hi>setled</hi> by a <hi>Chap<g ref="char:EOLhyphen"/>ter Act three</hi> yeares before. Here<g ref="char:EOLhyphen"/>upon, that Great <hi>King</hi> replied, <hi>No, Ile none of this, till you the Knights doe it</hi> Satis bene, <hi>well enough, and with due performance to Almighty</hi> GOD. And hereupon the forenamed <hi>Act</hi> proceeded, that they should doe <hi>this duty to Almighty</hi> GOD, not <hi>slightly,</hi> but <hi>Ad modum virorum Ecclesiastico<g ref="char:EOLhyphen"/>rum,</hi> as <hi>low,</hi> as <hi>well,</hi> as <hi>decently,</hi> as <hi>Cler<g ref="char:EOLhyphen"/>gie-men</hi> use to do it.</p>
+               <pb n="51" facs="tcp:8789:33"/>
+               <p>
+                  <hi>Now</hi> if you will turne this off, and say, it was the <hi>superstition</hi> of that <hi>Age</hi> so to do; Bishop <hi>Iewell</hi> will come in to <hi>helpe Me</hi> there. For where <hi>Har<g ref="char:EOLhyphen"/>ding</hi> names diverse <hi>Ceremonies,</hi> and <hi>particularly bowing</hi> themselves, and <hi>adoring</hi> at the <hi>Sacrament,</hi> I say, <hi>ado<g ref="char:EOLhyphen"/>ring</hi> at the <hi>Sacrament,</hi> not <hi>adoring</hi> the <hi>Sacrament;</hi> there Bishop <hi>Iewel</hi> (that <hi>learned, painefull,</hi> and <hi>reverend Pre<g ref="char:EOLhyphen"/>late</hi>) <hi>approves all</hi> both the <hi>Kneeling</hi> and the <hi>bowing,</hi> and the <hi>standing up</hi> at the <hi>Gospell</hi> (which as <hi>ancient</hi> as it is in the <hi>Church,</hi> and a common <hi>cu<g ref="char:EOLhyphen"/>stome,</hi> is yet <hi>fondly</hi> made another of their <hi>Innovations:</hi>
+                  <note place="margin">a <hi>B. Iewels reply to Har<g ref="char:EOLhyphen"/>dings answer Art.</hi> 3. <hi>Div.</hi> 29.</note>) And further, the <hi>Bishop</hi> addes*,) <hi>That they are all com<g ref="char:EOLhyphen"/>mendable gestures, and tokens of devo<g ref="char:EOLhyphen"/>tion, so long as the people understand what they meane, and apply them unto</hi> GOD. Now with us the <hi>people</hi> did
+<pb n="52" facs="tcp:8789:34"/>ever <hi>understand</hi> them <hi>fully,</hi> and <hi>apply</hi> them to God, and to none but <hi>God,</hi> till these <hi>factious</hi> spirits, and their <hi>like,</hi> to the great <hi>dis-service</hi> of <hi>God</hi> and his Church, went about to perswade them, that they are <hi>superstitious,</hi> if not <hi>Jdolatrous</hi> gestures: As they make <hi>every</hi> thing else to be, where <hi>God</hi> is not served <hi>slovenly.</hi>
+               </p>
+            </div>
+            <div n="13" type="innovation">
+               <p n="13">13 <hi>The Thirteenth Innovation</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 4.5.105.</note>
+                  <hi>is: The placing of the holy Table Altar<g ref="char:EOLhyphen"/>wise, at the upper end of the Chancell,</hi> that is, <hi>the setting of it North and South, and placing a Raile before it,</hi> to keepe it from prophanation, <hi>which</hi> Mr. <hi>Burton</hi> sayes, <hi>is done to advance and Vsher in Popery.</hi>
+               </p>
+               <p>To this <hi>I answer,</hi> That 'tis no <hi>Po<g ref="char:EOLhyphen"/>pery,</hi> to set a <hi>Raile</hi> to keepe <hi>prophana<g ref="char:EOLhyphen"/>tion</hi> from that <hi>Holy Table:</hi> nor is it
+<pb n="53" facs="tcp:8789:34"/>any <hi>Innovation</hi> to <hi>place</hi> it at the <hi>upper end</hi> of the <hi>Chancell</hi> as the <hi>Altar</hi> stood. And this appeares both by the <hi>Pra<g ref="char:EOLhyphen"/>ctise,</hi> and by the <hi>Command</hi> and <hi>Canon</hi> of the Church <hi>of England.</hi>
+               </p>
+               <p>
+                  <hi>First,</hi> by the <hi>Practise</hi> of the Church of <hi>England.</hi> For in the <hi>Kings Royall Chappels,</hi> and <hi>divers Cathedrals,</hi> the <hi>Holy Table</hi> hath ever since the <hi>Re<g ref="char:EOLhyphen"/>formation</hi> stood at the <hi>upper end</hi> of the <hi>Quire,</hi> with the <hi>large</hi> or <hi>full side</hi> towards the people.</p>
+               <p>And though it stood in most <hi>Pa<g ref="char:EOLhyphen"/>rish</hi> Churches the <hi>other way,</hi> yet whe<g ref="char:EOLhyphen"/>ther there be not more reason, the <hi>Parish</hi> Churches should bee made <hi>conformable</hi> to the <hi>Cathedral</hi> and <hi>Mo<g ref="char:EOLhyphen"/>ther</hi> Churches, than the <hi>Cathedrals</hi> to them, I leave to any <hi>reasonable</hi> man to <hi>judge.</hi>
+               </p>
+               <p>And yet here is nothing done ei<g ref="char:EOLhyphen"/>ther
+<pb n="54" facs="tcp:8789:35"/>by <hi>violence</hi> or <hi>command</hi> to take off the <hi>Indifferency</hi> of the standing of the <hi>Holy Table</hi> either way, but only by <hi>laying</hi> it <hi>fairely</hi> before men, how fit it is there should bee <hi>order,</hi> and <hi>uniformity;</hi> I say still reserving the <hi>Indifferency</hi> of the standing.</p>
+               <p>But howsoever I would faine know, how any <hi>discreet moderate</hi> man dares say, that the placing of the <hi>Holy Table Altar-wise</hi> (fince they will needs call it so) is done either <hi>to advance or Ʋsher in Popery?</hi> For did <hi>Queene Elizabeth</hi> banish <hi>Popery,</hi> and yet did she all along her <hi>Raigne,</hi> from <hi>first</hi> to <hi>last</hi> leave the <hi>Communi<g ref="char:EOLhyphen"/>on Table so</hi> standing in her owne <hi>Chappell Royall,</hi> in Saint <hi>Pauls</hi> and <hi>Westminster,</hi> and <hi>other</hi> places; and <hi>all</hi> this of <hi>purpose to advance</hi> or <hi>Ʋsher in</hi> that <hi>Popery</hi> which shee had driven out?</p>
+               <pb n="55" facs="tcp:8789:35"/>
+               <p>And since <hi>Her death</hi> have two <hi>Gracious</hi> Kings kept out <hi>Popery</hi> all their <hi>times,</hi> and yet left the <hi>Holy Table</hi> standing <hi>as it did</hi> in the <hi>Queenes time,</hi> and all of <hi>purpose</hi> to <hi>advance</hi> or <hi>Ʋsher in Popery</hi> which they <hi>kept out?</hi>
+               </p>
+               <p>Or what's the matter? May the <hi>Holy Table</hi> stand this way in the Kings <hi>Chappell</hi> or <hi>Cathedrals,</hi> or <hi>Bishops Chappels,</hi> and not else<g ref="char:EOLhyphen"/>where? <hi>Surely,</hi> if it be decent and <hi>fit</hi> for <hi>Gods Service,</hi> it may stand <hi>so</hi> (if <hi>Authority</hi> please) in <hi>any Church.</hi> But if it <hi>advance or Ʋsher in any super<g ref="char:EOLhyphen"/>stition</hi> and <hi>Popery,</hi> it ought to <hi>stand so</hi> in none.</p>
+               <p>Nor hath any Kings <hi>Chappell</hi> any <hi>Prerogative</hi> (if <hi>that</hi> may bee <hi>called one</hi>) above any <hi>ordinary Church</hi> to <hi>dis-serve God</hi> in by any <hi>Superstitious
+<pb n="56" facs="tcp:8789:36"/>Rites.</hi> VVhere, give mee leave to tell you, that the <hi>King</hi> and his <hi>Chap<g ref="char:EOLhyphen"/>pell</hi> are most <hi>jeeringly,</hi> and with <hi>scorne abused,</hi> in the last leafe of Mr. <hi>Burtons Mutinous Appeale,</hi> for such it is.</p>
+               <p>
+                  <hi>Secondly,</hi> this appeares by the <hi>Ca<g ref="char:EOLhyphen"/>non</hi> or <hi>Rule</hi> of the <hi>Church</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> too, for 'tis plaine in the last <hi>In<g ref="char:EOLhyphen"/>junction</hi> of the <hi>Queene;</hi> That the <hi>Holy Table ought</hi> to stand at the <hi>upper end</hi> of the <hi>Quire, North and South,</hi> or <hi>Altar-wise.</hi> For the words of the <hi>Queenes Injunctions</hi> are these.</p>
+               <p>
+                  <hi>The Holy Table in every Church</hi> (marke it I pray, not in the <hi>Royall Chappel</hi> or <hi>Cathedrals only,</hi> but in <hi>eve<g ref="char:EOLhyphen"/>ry Church) shall bee decently made and set in the place where the Altar stood.</hi> Now the <hi>Altar</hi> stood at the <hi>upper end</hi> of the <hi>Quire North</hi> and <hi>South,</hi> as
+<pb n="57" facs="tcp:8789:36"/>appeares before by the <hi>practise</hi> of the Church. And there to set it otherwise, is to set it <hi>crosse</hi> the place, <hi>not In</hi> the place where the <hi>Altar</hi> stood: and so <hi>Stulti dum vitant vi<g ref="char:EOLhyphen"/>tia—</hi> weake men, as these <hi>Libellers</hi> are, run into one <hi>Superstition,</hi> while they would avoyd another; For they runne upon the <hi>superstition</hi> of the <hi>Crosse,</hi> while they seeke to avoyd the <hi>superstition</hi> of the <hi>Altar.</hi> So you see here's neither <hi>popery</hi> nor <hi>Innova<g ref="char:EOLhyphen"/>tion</hi> in all the <hi>practise</hi> of <hi>Queene Eliza<g ref="char:EOLhyphen"/>beth,</hi> or since.</p>
+               <p>
+                  <hi>These</hi> words of the <hi>Injunction</hi> are so <hi>plaine,</hi> as that they can admit of no shift.</p>
+               <p>And give me leave to tell you, that a very learned <hi>Prelate</hi> of this <hi>Church,</hi> and <hi>one,</hi> whom <hi>I think</hi> these men will not <hi>accuse,</hi> as a man like to
+<pb n="58" facs="tcp:8789:37"/>
+                  <hi>advance or Ʋsher in Popery,</hi> is of the same <hi>opinion:</hi> 'Tis my <hi>Lord</hi> the <hi>Bi<g ref="char:EOLhyphen"/>shop</hi> of <hi>Salisbury.</hi>
+               </p>
+               <p>Some difference was lately ri<g ref="char:EOLhyphen"/>sing about placing the <hi>Communion-Table in a Parish Church</hi> of his <hi>Dio<g ref="char:EOLhyphen"/>cesse.</hi> The <hi>Bishop</hi> carefull to pre<g ref="char:EOLhyphen"/>vent all <hi>disorder,</hi> sends his <hi>Injuncti<g ref="char:EOLhyphen"/>on</hi> under his <hi>hand</hi> and <hi>seale</hi> to the <hi>Curate</hi> and <hi>Church-Wardens,</hi>
+                  <note place="margin">
+                     <hi>May</hi> 17. 1637.</note> to <hi>settle that</hi> businesse: In which hee hath these <hi>two</hi> passages <hi>remarkeable.</hi> I have <hi>seene</hi> and <hi>read</hi> the <hi>Order.</hi>
+               </p>
+               <p>The <hi>first passage</hi> is this; <hi>By the In<g ref="char:EOLhyphen"/>junction of Queene Elizabeth</hi> (saith hee) <hi>and by Can.</hi> 82. <hi>under King James, the Communion Tables should ordinarily be set and stand with the side to the East wall of the Chancell.</hi> Ther<g ref="char:EOLhyphen"/>fore this is no <hi>Innovation,</hi> since there is <hi>Injunction</hi> and <hi>Canon</hi> for it.</p>
+               <pb n="59" facs="tcp:8789:37"/>
+               <p>The <hi>other</hi> passage is this; <hi>'Tis Ig<g ref="char:EOLhyphen"/>norance</hi> (saith that <hi>learned Bishop) to thinke that the standing of the Holy Table there, relishes of Popery.</hi> Ther<g ref="char:EOLhyphen"/>fore, if it doe not so much as <hi>relish</hi> of <hi>popery,</hi> it can neither <hi>advance</hi> it, nor <hi>Ʋsher it in.</hi> And therefore this is a most odious <hi>slaunder,</hi> and <hi>scandall</hi> cast upon <hi>Ʋs.</hi>
+               </p>
+               <p>So here's <hi>enough</hi> both for the <hi>Pra<g ref="char:EOLhyphen"/>ctise and Rule</hi> of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> since the <hi>Reformation.</hi> Now <hi>before</hi> that time, both in this and o<g ref="char:EOLhyphen"/>ther <hi>Churches</hi> of <hi>Christendome,</hi> in the <hi>East</hi> and <hi>West ordinarily</hi> the <hi>Holy Ta<g ref="char:EOLhyphen"/>ble</hi> or <hi>Altar</hi> stood <hi>so;</hi> Against this Mr. <hi>Burton</hi> sayes little.</p>
+               <p>But the <hi>Lincolne-Shire Minister</hi> comes in to play the <hi>Puritane</hi> for that. Concerning which <hi>Book</hi> (fal<g ref="char:EOLhyphen"/>ling thus in my way) and the
+<pb n="60" facs="tcp:8789:38"/>
+                  <hi>Namelesse Author</hi> of it, I shall on<g ref="char:EOLhyphen"/>ly say these <hi>two things.</hi>
+               </p>
+               <p>The <hi>one</hi> is, that the <hi>Author preva<g ref="char:EOLhyphen"/>ricates</hi> from the <hi>first</hi> word to the <hi>last</hi> in the book; for he takes on him both for the <hi>Name</hi> and for the <hi>placing</hi> of the <hi>Holy Table,</hi> and the like, to prove, that <hi>Generally</hi> and <hi>Ʋniversally,</hi> and <hi>Ordinarily</hi> in the whole <hi>Catholicke Church,</hi> both <hi>East</hi> and <hi>West,</hi> the <hi>Holy Table</hi> did not stand at the <hi>upper</hi> end of the <hi>Quire</hi> or <hi>Chancell.</hi> And this hee must <hi>prove,</hi> or he doth nothing.</p>
+               <p>Now when hee comes to make his <hi>Proofes,</hi> they are almost <hi>all</hi> of them <hi>particular, few</hi> or <hi>none generall</hi> and <hi>concludent;</hi> For hee neither brings <hi>Testimonies</hi> out of the <hi>Gene<g ref="char:EOLhyphen"/>rall</hi> and received <hi>Rituals</hi> of the <hi>Ea<g ref="char:EOLhyphen"/>sterne</hi> and <hi>Westerne Churches,</hi> nor of <hi>Fathers</hi> and <hi>Histories</hi> of the <hi>Church,</hi>
+                  <pb n="61" facs="tcp:8789:38"/>which speake in <hi>Generall</hi> termes of <hi>all,</hi> but where they speak of <hi>particu<g ref="char:EOLhyphen"/>lar Churches</hi> only.</p>
+               <p>So that <hi>suppose</hi> the most that can be, that is, suppose his <hi>quotations</hi> bee all <hi>truly</hi> alledged, and true too in the <hi>sense</hi> that the <hi>Minister</hi> takes them (though in <hi>very truth,</hi> the <hi>places, most</hi> of them, are neither <hi>truly alledged,</hi> nor <hi>sensed,</hi>) yet they are but <hi>exceptions</hi> of, and <hi>exemptions</hi> from the <hi>Generall practise.</hi> And you know both in <hi>Law</hi> and <hi>Reason, Exceptio firmat Regulam in non exceptis.</hi> So that upon the sud<g ref="char:EOLhyphen"/>den I am not able to <hi>resolve,</hi> whether this <hi>Minister</hi> hath done more <hi>wrong</hi> to <hi>himselfe</hi> or his <hi>Readers,</hi> for he hath <hi>abused</hi> both.</p>
+               <p>The <hi>other</hi> is, that in the <hi>judgement</hi> of very <hi>many learned</hi> men, which have perused this book, the <hi>Author</hi>
+                  <pb n="62" facs="tcp:8789:39"/>is clearely conceived to <hi>want</hi> a great deale of that <hi>learning</hi> to which hee <hi>pretends:</hi> or else to have <hi>written</hi> this <hi>Book wholly,</hi> and <hi>Resolvedly</hi> against both his <hi>science</hi> and his <hi>conscience.</hi>
+               </p>
+               <p>And for <hi>my owne part,</hi> I am <hi>fully</hi> of <hi>opinion,</hi> this <hi>Booke</hi> was <hi>thrust</hi> now to the <hi>Presse,</hi> both to <hi>countenance</hi> these <hi>Libellers,</hi> and as much as in him lay, to <hi>fire</hi> both <hi>Church</hi> and <hi>State.</hi>
+               </p>
+               <p>And though I <hi>wonder not</hi> at the <hi>Minister,</hi> yet I should <hi>wonder</hi> at the <hi>Bishop</hi> of the <hi>Diocesse</hi> (a man of lear<g ref="char:EOLhyphen"/>ning and experience) that he should give <hi>Testimony</hi> to such a <hi>businesse,</hi> and in such <hi>times</hi> as these.</p>
+               <p>And <hi>once more,</hi> before I leave the <hi>Holy Table, Name, and Thing,</hi> give me leave to put you in minde, that there is <hi>no danger</hi> at <hi>all</hi> in the <hi>Altar, Name, or Thing.</hi> For at the <hi>begin<g ref="char:EOLhyphen"/>ning</hi>
+                  <pb n="63" facs="tcp:8789:39"/>of the <hi>Reformation,</hi> though there were <hi>a Law</hi> for the taking downe of the <hi>Altars,</hi> and setting up of <hi>Holy Ta<g ref="char:EOLhyphen"/>bles</hi> in the <hi>roome</hi> of them; yet in some places the <hi>Altars</hi> were <hi>not suddenly removed.</hi> And what sayes the <hi>Queene</hi> in her <hi>Injunction</hi> to this?
+<note place="margin">Injunct. ul<g ref="char:EOLhyphen"/>tim.</note> VVhy she sayes, <hi>That there seemes no matter of great moment in this, saving for unifor<g ref="char:EOLhyphen"/>mity, and the better imitation of the Law in that behalfe.</hi> Therefore for any <hi>danger</hi> or <hi>hurt</hi> that was in the <hi>Al<g ref="char:EOLhyphen"/>tars, Name, or Thing,</hi> they might <hi>even then</hi> have beene <hi>left standing, but for Ʋniformity, and the Imitation of the Law.</hi>
+               </p>
+               <p>But howsoever, it followes in the same <hi>Injunction, that when the</hi> Altar <hi>is taken downe, the Holy Table</hi> shall <hi>bee set</hi> In, (<hi>not</hi> crosse) <hi>the place where the Altar stood;</hi> which (as is aforesaid)
+<pb n="64" facs="tcp:8789:40"/>must needs be <hi>Altar-wise.</hi>
+               </p>
+            </div>
+            <div n="14" type="innovation">
+               <p n="14">14 The <hi>Fourteenth</hi> and the <hi>last Innovation</hi> comes with a <hi>mighty Charge,</hi> &amp; 'tis taken out of an <hi>Epistle</hi> to the <hi>Temporall Lords</hi> of his <hi>Maje<g ref="char:EOLhyphen"/>sties Privy Councell.</hi> Of which <hi>Epi<g ref="char:EOLhyphen"/>stle</hi> we got one <hi>sheet,</hi> and so (for ought I yet know) that <hi>Impression</hi> stay'd: In that <hi>Sheet</hi> is this <hi>charge,</hi> The <hi>words</hi> are,</p>
+               <p>
+                  <hi>The Prelates, to justifie their procee<g ref="char:EOLhyphen"/>dings, have forged a new Article of Re<g ref="char:EOLhyphen"/>ligion, brought from</hi> Rome <hi>(which gives them full power to alter the Do<g ref="char:EOLhyphen"/>ctrine and Discipline of our Church at a Blow, as they Interpret it) and have foisted it</hi> (such is their language) <hi>into the beginning of the Twentieth Article of our</hi> Church. And <hi>this is in the last edition of the Articles,</hi> Anno 1628. <hi>in affront of his Majesties Declaration before them,</hi> &amp;c.</p>
+               <pb n="65" facs="tcp:8789:40"/>
+               <p>The <hi>Clause</hi> (which they say is <hi>for<g ref="char:EOLhyphen"/>ged</hi> by us) is this: <hi>The Church,</hi> (that is, <hi>the Bishops, as they expound it) hath power to decree Rites and Cere<g ref="char:EOLhyphen"/>monies, and Authority in matters of Faith.</hi> (The <hi>word</hi> is <hi>Controversies</hi> of <hi>Faith,</hi> by their leave) <hi>This Clause</hi> (say they) <hi>is a forgery fit to be exami<g ref="char:EOLhyphen"/>ned, and deepely censured in the Star<g ref="char:EOLhyphen"/>chamber. For 'tis not to be found in the Latine or English Articles of</hi> Edw. 6. or Q. Elizabeth, <hi>ratified by Par<g ref="char:EOLhyphen"/>liament.</hi>
+               </p>
+               <p>And then in the margent thus, <hi>If to forge a Will or Writing be censu<g ref="char:EOLhyphen"/>rable in the Star-chamber, which is but a wrong to a private man: How much more the forgery of an Article of Reli<g ref="char:EOLhyphen"/>gion, to wrong the whole Church, and overturne Religion which concernes all our soules.</hi>
+               </p>
+               <pb n="66" facs="tcp:8789:41"/>
+               <p>This is a <hi>beavie charge, my Lords:</hi> But I thank GOD the <hi>Answer's</hi> easie.</p>
+               <p>And <hi>truly</hi> I grant, that to <hi>forge</hi> an <hi>Article</hi> of <hi>Religion</hi> in <hi>whole</hi> or in <hi>part,</hi> and then to <hi>thrust</hi> it upon the <hi>Church,</hi> is a most <hi>haynous crime,</hi> farre worse then the <hi>forging of a Deed.</hi> And is certainly <hi>very deeply censurable</hi> in this <hi>Court.</hi> And I would have humbly besought you, that a <hi>deepe censure</hi> might have beene layd upon <hi>it,</hi> but that this <hi>sheet</hi> was found after, and so is not annexed to the <hi>Information,</hi> nor in <hi>Iudgement</hi> at this <hi>present</hi> be<g ref="char:EOLhyphen"/>fore you.</p>
+               <p>But then, <hi>My Lords,</hi> I must tell you, I hope to make it as <hi>cleere</hi> as the <hi>day,</hi> that this <hi>forgery</hi> was not, <hi>that</hi> this <hi>clause</hi> mentioned was added, by the <hi>Prelates</hi> to the <hi>Artiele,</hi> to gaine <hi>power</hi> to the <hi>Church,</hi> and so to serve
+<pb n="67" facs="tcp:8789:41"/>
+                  <hi>our turnes.</hi> But that that <hi>clause</hi> in the <hi>beginning</hi> of the <hi>Article</hi> was by these men, or at least by some of their <hi>Faction, razedout,</hi> and this to weaken the <hi>just</hi> power of the Church to serve <hi>their turnes.</hi>
+               </p>
+               <p>They say (to <hi>justifie</hi> their <hi>charge</hi>) that this <hi>clause</hi> is not to be found in the <hi>Articles, English</hi> or <hi>Latine,</hi> of ei<g ref="char:EOLhyphen"/>ther <hi>Ed.</hi> 6. or Q. <hi>Elizabeth.</hi>
+               </p>
+               <p>
+                  <hi>I answer:</hi> The <hi>Articles</hi> of <hi>Edw.</hi> 6. and those made under Q. <hi>Elizabeth differ</hi> very much. And those of <hi>Ed.</hi> 6. are not now <hi>binding.</hi> So whether the <hi>Clause</hi> be <hi>in</hi> or <hi>out</hi> of <hi>them,</hi> 'tis not much <hi>materiall.</hi>
+               </p>
+               <p>But for the <hi>Articles</hi> of the Church of <hi>England,</hi> made in the <hi>Queenes</hi> time, and now in <hi>force,</hi> that this <hi>clause</hi> for the <hi>power</hi> of the <hi>Church</hi> to <hi>decree Cere<g ref="char:EOLhyphen"/>monies, and to have Authority in con<g ref="char:EOLhyphen"/>troversies
+<pb n="68" facs="tcp:8789:42"/>of faith,</hi> shold not be found in <hi>English</hi> or <hi>Latine Copies,</hi> till the <hi>Yeare,</hi> 1628. that it was set forth with the <hi>Kings Declaration</hi> before it, is to me a <hi>miracle;</hi> but <hi>your Lordships</hi> shall see the <hi>falsehood</hi> and <hi>boldnes</hi> of these men.</p>
+               <p>
+                  <hi>What?</hi> Is this <hi>affirmative clause</hi> in no <hi>Copie, English</hi> or <hi>Latine</hi> till the <hi>Yeare</hi> 1628? <hi>Strange:</hi> VVhy, my <hi>Lords,</hi> I have a <hi>Copie,</hi> of the <hi>Articles</hi> in <hi>English,</hi> of the <hi>yeare</hi> 1612. And of the <hi>Yeare,</hi> 1605. and of the <hi>Yeare</hi> 1593. and in <hi>Latine</hi> of the <hi>Yeare,</hi> 1563. which was one of the <hi>first printed Co<g ref="char:EOLhyphen"/>pies,</hi> if not the <hi>first of all.</hi> For the Ar<g ref="char:EOLhyphen"/>ticles were <hi>agreed</hi> on but the <hi>Nine and twentieth day of January,</hi>
+                  <list>
+                     <item>
+                        <hi>Anno</hi> 1562. According to the <hi>English</hi> Account.</item>
+                     <item>
+                        <hi>Anno</hi> 1563. According to the <hi>Iulian</hi> Account.</item>
+                  </list>
+               </p>
+               <p>And in all these, this <hi>Affirmative Clause</hi> for the Churches <hi>power</hi> is <hi>in.</hi>
+                  <pb n="69" facs="tcp:8789:42"/>And is not this strange <hi>boldnes</hi> then to <hi>abuse</hi> the VVorld, and falsely to say 'tis in no <hi>Copy,</hi> when <hi>J my selfe,</hi> out of my own <hi>store,</hi> am able to shew it in so <hi>many,</hi> and so <hi>aunciently.</hi>
+               </p>
+               <p>But <hi>My Lords,</hi> I shall make it plainer yet: For 'tis not fit concer<g ref="char:EOLhyphen"/>ning an <hi>Article</hi> of <hi>Religion,</hi> and an <hi>Article</hi> of such <hi>consequence</hi> for the <hi>Order, Truth,</hi> and <hi>Peace</hi> of this <hi>Church,</hi> you should <hi>rely</hi> upon my <hi>Co<g ref="char:EOLhyphen"/>pies,</hi> be they never so <hi>many</hi> or never so <hi>auncient.</hi>
+               </p>
+               <p>Therefore I sent to the <hi>Publike Records</hi> in my <hi>Office,</hi> and here un<g ref="char:EOLhyphen"/>der my <hi>Officers</hi> hand, who is a <hi>Pub<g ref="char:EOLhyphen"/>like Notary,</hi> is returned mee the <hi>Twentieth Article</hi> with this <hi>Affir<g ref="char:EOLhyphen"/>mative Clause</hi> in it. And there is also the whole <hi>Body</hi> of the <hi>Articles</hi> to bee seene.</p>
+               <pb n="70" facs="tcp:8789:43"/>
+               <p>By this your <hi>Lordships</hi> see how free the <hi>Prelates</hi> are from <hi>forging</hi> this part of the <hi>Article.</hi> Now let these men quit themselves and their <hi>faction,</hi> as they can, for their <hi>Index Expurgatorius</hi> and their foule <hi>Rasure</hi> in leaving out this <hi>part</hi> of the <hi>Article.</hi> For to <hi>leave out</hi> of an <hi>Article</hi> is as great a <hi>crime</hi> as to <hi>put in;</hi> And a <hi>Maine Rasure</hi> is as <hi>censurable</hi> in this <hi>Court</hi> as a <hi>forgery.</hi>
+               </p>
+               <p>
+                  <hi>Why,</hi> but then my <hi>Lords;</hi> what is this <hi>Mystery of Iniquity?</hi>
+               </p>
+               <p>Truly, I cannot certainely tell, but as farre as I can, I'le tell you.</p>
+               <p>The <hi>Articles</hi> you see were <hi>fully,</hi> and <hi>fairely</hi> agreed to, and <hi>subscribed</hi> in the <hi>yeare</hi>—1562/3. But after this, in the <hi>yeare</hi> 1571. there were some that <hi>refused</hi> to <hi>subscribe,</hi> but why they did so, is not <hi>recorded.</hi> VVhe<g ref="char:EOLhyphen"/>ther
+<pb n="71" facs="tcp:8789:43"/>it were about this <hi>Article</hi> or any other I know not. But in fact this is manifest, that in that <hi>yeare</hi> 1571. the <hi>Articles</hi> were <hi>printed</hi> both in <hi>Latine,</hi> and <hi>English,</hi> and this <hi>Clause</hi> for the <hi>Church</hi> left out of both. And certainely, this could not bee done, but by the <hi>malicious cunning</hi> of that <hi>Opposite Faction.</hi> And though I shall spare <hi>dead</hi> mens <hi>names</hi> where I have not <hi>certainty;</hi> Yet if you bee <hi>pleased</hi> to <hi>looke backe</hi> and <hi>consider</hi> who they were that <hi>Governed</hi> businesses in 1571, and <hi>rid</hi> the Church almost at their <hi>plea<g ref="char:EOLhyphen"/>sure;</hi> And how <hi>potent</hi> the <hi>Ancestors,</hi> these <hi>Libellers</hi> began <hi>then</hi> to <hi>growe,</hi> you will thinke it no <hi>hard</hi> matter to have the <hi>Articles printed,</hi> and <hi>this Clause left out.</hi>
+               </p>
+               <p>And yet 'tis plaine, That, after
+<pb n="72" facs="tcp:8789:44"/>the stirre about <hi>Subscription</hi> in the <hi>yeare</hi> 1571. the <hi>Articles</hi> were <hi>setled</hi> and <hi>subscribed</hi> unto at last, as in the <hi>yeare</hi> 1562. with this <hi>Clause</hi> in them for the Church: For looking far<g ref="char:EOLhyphen"/>ther into the <hi>Records</hi> which are in <hi>mine own</hi> hands, I have found the <hi>Booke</hi> of 1562/3. subscribed by <hi>all</hi> the <hi>Lower house of Convocation,</hi> in this very <hi>yeare</hi> of <hi>Contradiction,</hi> 1571. Dr. <hi>Iohn Elmar</hi> (who was after <hi>Lord Bishop of London</hi>) being there <hi>Pro<g ref="char:EOLhyphen"/>loquutor: Alexander Nowell Deane of Saint Pauls,</hi> having beene <hi>Pro<g ref="char:EOLhyphen"/>loquutor</hi> in 1562/3. and yet living and present and subscribing in, 1571. Therefore, I doe here openly in <hi>Star-chamber</hi> charge upon that <hi>pure Sect</hi> this <hi>foule corruption</hi> of <hi>falsify<g ref="char:EOLhyphen"/>ing the Articles</hi> of the Church of <hi>England;</hi> let them take it off as they can.</p>
+               <pb n="73" facs="tcp:8789:44"/>
+               <p>I have now done, and 'tis time I should, with the <hi>Innovations</hi> charged upon the <hi>Prelates,</hi> and fit to be answered here.</p>
+               <p>Some few more there are, but they belong to matter of <hi>Doctrine,</hi> which shall presently bee answered, <hi>Justo Volumine,</hi> at large, to <hi>satisfie</hi> all <hi>wel-minded</hi> people. But when Mr. <hi>Burtons Booke,</hi> which is the <hi>maine one, is answered,</hi> (I meane his <hi>Booke,</hi> not his <hi>Rayling</hi>) neither <hi>Prynne,</hi> nor <hi>Bastwicke</hi> nor any <hi>Attendants</hi> upon <hi>Rabshakeh</hi> shall <hi>by mee</hi> or <hi>my care</hi> be <hi>answered.</hi> If this <hi>Court</hi> find not a way to <hi>stop</hi> these <hi>Libellers mouthes</hi> and <hi>pennes,</hi> for <hi>me</hi> they shall <hi>rayle</hi> on till they be <hi>weary.</hi>
+               </p>
+               <p>Yet <hi>one</hi> thing more I beseech <hi>you,</hi> give <hi>Mee</hi> leave to <hi>adde. 'Tis</hi> Master <hi>Burtons charge</hi>
+                  <note n="*" place="margin">
+                     <hi>Pag.</hi> 175.</note> upon the
+<pb n="74" facs="tcp:8789:45"/>
+                  <hi>Prelates. That the Censures formerly laid upon Malefactors, are now put upon Gods Ministers for their Vertue and Piety.</hi>
+               </p>
+               <p>A <hi>heavy charge</hi> this too. But if he or <hi>any man</hi> else can <hi>shew</hi> that any man hath been <hi>punished</hi> in the <hi>High Commission,</hi> or else where, by the <hi>Prelates,</hi> for <hi>Vertue</hi> and <hi>Piety,</hi> there is all the reason in the world <hi>wee</hi> should bee <hi>severely punished</hi> our selves. But the truth is, the <hi>Ʋer<g ref="char:EOLhyphen"/>tue</hi> and <hi>Piety</hi> for which these <hi>Mini<g ref="char:EOLhyphen"/>sters</hi> are <hi>punished,</hi> is for preaching <hi>Schisme</hi> and <hi>sedition,</hi> many of their <hi>Sermons</hi> being as bad as their <hi>Libels;</hi> As <hi>Burtons Libell</hi> was one of his <hi>Sermons</hi> first. But whether this stuffe have any <hi>Affinity</hi> with <hi>Ver<g ref="char:EOLhyphen"/>tue</hi> and <hi>Piety,</hi> I submit to any <hi>Chri<g ref="char:EOLhyphen"/>stian Reader.</hi>
+               </p>
+               <pb n="75" facs="tcp:8789:45"/>
+               <p>And yet Mr. <hi>Burton</hi> is so <hi>confident</hi> of his <hi>Jnnocency,</hi> even in <hi>this cause</hi> wherein hee hath so <hi>fouly</hi> carryed himselfe, that hee breakes forth into these words
+<note n="*" place="margin">
+                     <hi>Page</hi> 7.</note>, <hi>J never so much as once dreamed, that Impiety and Impudency it selfe in such a Christian State as this is, and under such a gracious</hi> Prince, <hi>durst ever thus publikely have called me in question, and that upon the open Stage,</hi> &amp;c.</p>
+               <p>You see the <hi>boldnesse</hi> of the <hi>Man,</hi> and in as <hi>bad a cause,</hi> as (I thinke) in <hi>this kind</hi> ever <hi>any man</hi> had.</p>
+               <p>I shall <hi>end</hi> all with a passage out of S. <hi>Cyprian,</hi>
+                  <note place="margin">f <hi>Lib.</hi> 1. <hi>Ep.</hi> 3.</note> when he, then <hi>Bishop</hi> of <hi>Carthage,</hi> was <hi>bitterly rayled</hi> upon by a pack of <hi>Schismaticks, his answer</hi> was, and 'tis now <hi>mine;</hi> They have <hi>rayled</hi> both <hi>bitterly</hi> and <hi>falsly</hi> upon
+<pb n="76" facs="tcp:8789:46"/>
+                  <hi>me,</hi> and yet <hi>Non oportet me paria cum illis facere;</hi> it becomes not me to an<g ref="char:EOLhyphen"/>swer them with the like, either <hi>Levi<g ref="char:EOLhyphen"/>ties</hi> or <hi>Revilings,</hi> but to <hi>speake</hi> and <hi>write</hi> that only which becomes <hi>Sa<g ref="char:EOLhyphen"/>cerdotem Dei,</hi> a <hi>Priest</hi> of God.</p>
+               <p>Neither shall I in this <hi>give way</hi> (though I have been <hi>extreamely</hi> vili<g ref="char:EOLhyphen"/>fied) to either <hi>griefe</hi> or <hi>passion</hi> to <hi>speake, remembring</hi> that of the <hi>Psal<g ref="char:EOLhyphen"/>mist</hi>
+                  <note place="margin">a <hi>Psa.</hi> 37 8.</note>
+                  <hi>Psal.</hi> 37. <hi>Fret not thy selfe, else shalt thou be moved to doe evill.</hi>
+               </p>
+               <p>Neither yet by <hi>Gods grace</hi> shall the <hi>Reproaches</hi> of <hi>such</hi> men as <hi>these,</hi> make me <hi>faint</hi> or <hi>start aside,</hi> either from the <hi>Right way</hi> in matter of <hi>pra<g ref="char:EOLhyphen"/>ctise</hi> (they are S. <hi>Cyprians</hi> words a<g ref="char:EOLhyphen"/>gaine
+<note n="*" place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>b. p.</hi> 10.</note>) or <hi>à certâ regulâ,</hi> from the certaine rule of <hi>faith.</hi>
+               </p>
+               <p>And since in <hi>former</hi> times, some spared not to call the <hi>Master</hi> of the
+<pb n="77" facs="tcp:8789:46"/>house <hi>Beelzebub,</hi> how much more will they bee <hi>bold</hi> with <hi>them</hi> of his <hi>household,</hi> as it is in S. <hi>Matthew</hi>
+                  <note n="*" place="margin">S. <hi>Mat.</hi> 10 25.</note>, <hi>cap.</hi> 10. And so <hi>bold</hi> have these men been; but the next <hi>words</hi> of our <hi>Saviour</hi> are, <hi>Feare them not.</hi>
+               </p>
+               <p>I humbly crave <hi>pardon</hi> of your <hi>Lordships</hi> for this my <hi>necessary length,</hi> and give you <hi>all</hi> hearty thankes for your <hi>Noble patience,</hi> and your <hi>Iust and Honourable censure</hi> upon these Men, and your <hi>Ʋnanimous dislike</hi> of them, and <hi>defence</hi> of the Church.</p>
+               <p>But because the <hi>businesse</hi> hath some <hi>reflection</hi> upon <hi>my selfe,</hi> I shall <hi>for<g ref="char:EOLhyphen"/>beare</hi> to <hi>censure</hi> them, and <hi>leave</hi> them to GODS <hi>mercy,</hi> and the KINGS <hi>Iustice.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:8789:47"/>
+            <pb facs="tcp:8789:47"/>
+            <pb facs="tcp:8789:48"/>
+            <pb facs="tcp:8789:48"/>
+         </div>
+      </body>
+   </text>
+</TEI>
